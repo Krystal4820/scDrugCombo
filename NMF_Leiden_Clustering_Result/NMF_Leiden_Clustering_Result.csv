@@ -1,0 +1,479 @@
+broad_id,name,moa,predicted_labels,SMILES
+BRD-A01643550-001-04-9,prednisolone-acetate,glucocorticoid receptor agonist,16,CC(=O)OCC(=O)[C@]1(CC[C@@H]2[C@@]1(C[C@@H]([C@H]3[C@H]2CCC4=CC(=O)C=C[C@]34C)O)C)O
+BRD-A02180903-001-04-5,betamethasone,glucocorticoid receptor agonist,16,C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)CO)O)C)O)F)C
+BRD-A03506276-001-01-5,XL888,HSP inhibitor,0,"CC[C@@H](C)NC1=C(C=C(C(=C1)C(=O)NC2CC3CCC(C2)N3C4=NC=C(C=C4)C(=O)C5CC5)C)C(=O)N
+CC[C@@H](C)NC1=C(C=C(C(=C1)C(=O)NC2C[C@H]3CC[C@@H](C2)N3C4=NC=C(C=C4)C(=O)C5CC5)C)C(=O)N
+CCC(C)NC1=C(C=C(C(=C1)C(=O)NC2CC3CCC(C2)N3C4=NC=C(C=C4)C(=O)C5CC5)C)C(=O)N
+CCC(C)NC1=C(C=C(C(=C1)C(=O)NC2C[C@H]3CC[C@@H](C2)N3C4=NC=C(C=C4)C(=O)C5CC5)C)C(=O)N"
+BRD-A03623303-045-09-5,metoprolol,adrenergic receptor antagonist,8,CC(C)NCC(COC1=CC=C(C=C1)CCOC)O
+BRD-A05906449-004-01-1,lappaconite,sodium channel blocker,0,CCN1C[C@@]2(CC[C@@H]([C@@]34[C@@H]2C[C@@H]([C@H]31)[C@]5(C[C@@H]([C@H]6C[C@@H]4[C@@]5([C@H]6OC)O)OC)O)OC)OC(=O)C7=CC=CC=C7NC(=O)C
+BRD-A06352418-001-25-9,terfenadine,histamine receptor antagonist,17,CC(C)(C)C1=CC=C(C=C1)C(CCCN2CCC(CC2)C(C3=CC=CC=C3)(C4=CC=CC=C4)O)O
+BRD-A07704283-001-01-3,isofloxythepin,dopamine receptor antagonist,4,CC(C)C1=CC2=C(C=C1)SC3=C(CC2N4CCN(CC4)CCO)C=CC(=C3)F
+BRD-A10070317-003-28-3,propranolol,adrenergic receptor antagonist,23,CC(C)NCC(COC1=CC=CC2=CC=CC=C21)O
+BRD-A10903566-003-07-7,imiloxan,adrenergic receptor antagonist,16,CCN1C=CN=C1CC2COC3=CC=CC=C3O2
+BRD-A10977446-001-12-1,carvedilol,adrenergic receptor antagonist,22,COC1=CC=CC=C1OCCNCC(COC2=CC=CC3=C2C4=CC=CC=C4N3)O
+BRD-A11990600-001-03-4,lorazepam,benzodiazepine receptor agonist,21,C1=CC=C(C(=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)Cl)O)Cl
+BRD-A13133631-001-04-0,fluorometholone,glucocorticoid receptor agonist,4,C[C@H]1C[C@H]2[C@@H]3CC[C@@]([C@]3(C[C@@H]([C@@]2([C@@]4(C1=CC(=O)C=C4)C)F)O)C)(C(=O)C)O
+BRD-A14395271-074-17-8,mesoridazine,dopamine receptor antagonist,1,CN1CCCCC1CCN2C3=CC=CC=C3SC4=C2C=C(C=C4)S(=O)C
+BRD-A16700644-003-04-4,isoxsuprine,adrenergic receptor agonist,16,CC(COC1=CC=CC=C1)NC(C)C(C2=CC=C(C=C2)O)O
+BRD-A18696154-003-22-6,idazoxan,adrenergic receptor antagonist,13,C1CN=C(N1)C2COC3=CC=CC=C3O2
+BRD-A20239487-001-24-9,atenolol-(+/-),adrenergic receptor antagonist,2,Error: 404
+BRD-A23072235-050-18-5,pheniramine,histamine receptor antagonist,12,CN(C)CCC(C1=CC=CC=C1)C2=CC=CC=N2
+BRD-A24587114-066-22-5,isoetharine,adrenergic receptor agonist,8,CCC(C(C1=CC(=C(C=C1)O)O)O)NC(C)C
+BRD-A25687296-300-04-3,emetine,protein synthesis inhibitor,0,CC[C@H]1CN2CCC3=CC(=C(C=C3[C@@H]2C[C@@H]1C[C@@H]4C5=CC(=C(C=C5CCN4)OC)OC)OC)OC
+BRD-A27887842-001-04-0,prednisolone,glucocorticoid receptor agonist,16,C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)CO)O)CCC4=CC(=O)C=C[C@]34C)O
+BRD-A28329383-001-02-1,MTPG,glutamate receptor antagonist,2,"CC(C1=CC=C(C=C1)C2=NNN=N2)(C(=O)O)N
+C[C@](C1=CC=C(C=C1)C2=NNN=N2)(C(=O)O)N"
+BRD-A28970875-300-04-9,puromycin,protein synthesis inhibitor,12,CN(C)C1=NC=NC2=C1N=CN2[C@H]3[C@@H]([C@@H]([C@H](O3)CO)NC(=O)[C@H](CC4=CC=C(C=C4)OC)N)O
+BRD-A30582499-003-05-1,tiletamine,glutamate receptor antagonist,10,CCNC1(CCCCC1=O)C2=CC=CS2
+BRD-A30886737-001-02-9,florfenicol,protein synthesis inhibitor,17,CS(=O)(=O)C1=CC=C(C=C1)[C@H]([C@@H](CF)NC(=O)C(Cl)Cl)O
+BRD-A35588707-001-05-5,teniposide,topoisomerase inhibitor,7,COC1=CC(=CC(=C1O)OC)[C@H]2[C@@H]3[C@H](COC3=O)[C@@H](C4=CC5=C(C=C24)OCO5)O[C@H]6[C@@H]([C@H]([C@H]7[C@H](O6)CO[C@H](O7)C8=CC=CS8)O)O
+BRD-A36057565-001-01-0,bruceantin,protein synthesis inhibitor,0,CC1=C(C(=O)C[C@]2([C@H]1C[C@@H]3[C@]45[C@@H]2[C@H]([C@@H]([C@]([C@@H]4[C@H](C(=O)O3)OC(=O)/C=C(\C)/C(C)C)(OC5)C(=O)OC)O)O)C)O
+BRD-A36267905-003-18-4,buphenine,adrenergic receptor agonist,6,CC(CCC1=CC=CC=C1)NC(C)C(C2=CC=C(C=C2)O)O
+BRD-A41304429-001-14-8,practolol,adrenergic receptor antagonist,7,CC(C)NCC(COC1=CC=C(C=C1)NC(=O)C)O
+BRD-A43671941-003-11-9,oxprenolol,adrenergic receptor antagonist,2,CC(C)NCC(COC1=CC=CC=C1OCC=C)O
+BRD-A45498368-001-07-1,WYE-125132,mTOR inhibitor,6,CNC(=O)NC1=CC=C(C=C1)C2=NC3=C(C=NN3C4CCC5(CC4)OCCO5)C(=N2)N6CC7CCC(C6)O7
+BRD-A48300215-001-04-8,ajmaline,sodium channel blocker,23,CC[C@H]1[C@@H]2C[C@H]3[C@H]4[C@@]5(C[C@@H]([C@H]2[C@H]5O)N3[C@@H]1O)C6=CC=CC=C6N4C
+BRD-A49035384-003-28-9,methacycline,protein synthesis inhibitor,19,CN(C)[C@H]1[C@@H]2[C@H]([C@@H]3C(=C)C4=C(C(=CC=C4)O)C(=C3C(=O)[C@@]2(C(=C(C1=O)C(=O)N)O)O)O)O
+BRD-A49765801-001-04-1,fludroxycortide,glucocorticoid receptor agonist,16,C[C@]12CCC(=O)C=C1[C@H](C[C@@H]3[C@@H]2[C@H](C[C@]4([C@H]3C[C@@H]5[C@]4(OC(O5)(C)C)C(=O)CO)C)O)F
+BRD-A50064262-001-04-7,flumethasone-pivalate,glucocorticoid receptor agonist,16,C[C@@H]1C[C@H]2[C@@H]3C[C@@H](C4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)COC(=O)C(C)(C)C)O)C)O)F)C)F
+BRD-A50157456-065-20-6,terbutaline,adrenergic receptor agonist,2,CC(C)(C)NCC(C1=CC(=CC(=C1)O)O)O
+BRD-A56085258-001-01-8,LGX818,RAF inhibitor,18,C[C@@H](CNC1=NC=CC(=N1)C2=CN(N=C2C3=C(C(=CC(=C3)Cl)NS(=O)(=O)C)F)C(C)C)NC(=O)OC
+BRD-A57382968-001-29-0,piroxicam,cyclooxygenase inhibitor,1,CN1C(=C(C2=CC=CC=C2S1(=O)=O)O)C(=O)NC3=CC=CC=N3
+BRD-A57798112-001-03-7,PD-318088,MEK inhibitor,18,C1=CC(=C(C=C1I)F)NC2=C(C(=C(C=C2C(=O)NOCC(CO)O)Br)F)F
+BRD-A60197193-001-14-6,amisulpride,dopamine receptor antagonist,1,CCN1CCCC1CNC(=O)C2=CC(=C(C=C2OC)N)S(=O)(=O)CC
+BRD-A64092382-003-18-3,mexiletine,sodium channel blocker,22,CC1=C(C(=CC=C1)C)OCC(C)N
+BRD-A67516570-001-02-8,lafutidine,histamine receptor antagonist,1,C1CCN(CC1)CC2=CC(=NC=C2)OC/C=C\CNC(=O)CS(=O)CC3=CC=CO3
+BRD-A67862938-034-14-9,naftidrofuryl,adrenergic receptor antagonist,20,CCN(CC)CCOC(=O)C(CC1CCCO1)CC2=CC=CC3=CC=CC=C32
+BRD-A71725768-001-01-3,metoxibutropate,cyclooxygenase inhibitor,8,CC(C)CC1=CC=C(C=C1)C(C)C(=O)OC2=CC=CC=C2OC
+BRD-A75726477-003-21-3,clenbuterol,adrenergic receptor agonist,5,CC(C)(C)NCC(C1=CC(=C(C(=C1)Cl)N)Cl)O
+BRD-A78391468-001-02-8,prednisolone-hemisuccinate,glucocorticoid receptor agonist,16,C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)COC(=O)CCC(=O)O)O)CCC4=CC(=O)C=C[C@]34C)O
+BRD-A79981887-003-16-4,midodrine,adrenergic receptor agonist,4,COC1=CC(=C(C=C1)OC)C(CNC(=O)CN)O
+BRD-A83650191-004-02-8,A61603,adrenergic receptor agonist,0,CS(=O)(=O)NC1=C(C=CC2=C1CCCC2C3=NCCN3)O
+BRD-A84174393-236-07-1,meloxicam,cyclooxygenase inhibitor,16,CC1=CN=C(S1)NC(=O)C2=C(C3=CC=CC=C3S(=O)(=O)N2C)O
+BRD-A88138582-001-04-8,halcinonide,glucocorticoid receptor agonist,16,C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@]2([C@H](C[C@]4([C@H]3C[C@@H]5[C@]4(OC(O5)(C)C)C(=O)CCl)C)O)F
+BRD-A90272038-001-01-7,CGP-37849,glutamate receptor antagonist,20,C/C(=C\C(C(=O)O)N)/CP(=O)(O)O
+BRD-A91366704-001-01-9,eprinomectin,benzodiazepine receptor agonist,15,Error: 404
+BRD-A93093700-001-02-9,temazepam,benzodiazepine receptor agonist,10,CN1C2=C(C=C(C=C2)Cl)C(=NC(C1=O)O)C3=CC=CC=C3
+BRD-A97701745-001-16-0,pindolol,adrenergic receptor antagonist,8,CC(C)NCC(COC1=CC=CC2=C1C=CN2)O
+BRD-A97739905-001-26-5,ketoprofen,cyclooxygenase inhibitor,5,CC(C1=CC(=CC=C1)C(=O)C2=CC=CC=C2)C(=O)O
+BRD-A98990573-003-01-3,epinastine,histamine receptor antagonist,1,C1C2C3=CC=CC=C3CC4=CC=CC=C4N2C(=N1)N
+BRD-K00615600-001-12-9,AG-14361,PARP inhibitor,1,CN(C)CC1=CC=C(C=C1)C2=NC3=CC=CC4=C3N2CCNC4=O
+BRD-K00662280-001-09-4,CL-218872,benzodiazepine receptor agonist,1,CC1=NN=C2N1N=C(C=C2)C3=CC(=CC=C3)C(F)(F)F
+BRD-K00673382-001-18-9,famotidine,histamine receptor antagonist,8,"C1=C(N=C(S1)N=C(N)N)CSCC/C(=N/S(=O)(=O)N)/N
+C1=C(N=C(S1)N=C(N)N)CSCCC(=NS(=O)(=O)N)N
+C1=C(N=C(S1)N=C(N)N)CSCC/C(=N\S(=O)(=O)N)/N"
+BRD-K01683783-001-02-6,TAK-901,Aurora kinase inhibitor,12,CCS(=O)(=O)C1=CC=CC(=C1)C2=CC(=C(C3=C2C4=C(N3)N=CC(=C4)C)C)C(=O)NC5CCN(CC5)C
+BRD-K02130563-001-11-4,panobinostat,HDAC inhibitor,11,CC1=C(C2=CC=CC=C2N1)CCNCC3=CC=C(C=C3)/C=C/C(=O)NO
+BRD-K02389548-001-02-5,RG2833,HDAC inhibitor,11,CC1=CC=C(C=C1)C(=O)NCCCCCC(=O)NC2=CC=CC=C2N
+BRD-K02407574-001-09-7,parbendazole,tubulin polymerization inhibitor,3,CCCCC1=CC2=C(C=C1)N=C(N2)NC(=O)OC
+BRD-K02900412-001-11-3,clofoctol,protein synthesis inhibitor,23,CC(C)(C)CC(C)(C)C1=CC(=C(C=C1)O)CC2=C(C=C(C=C2)Cl)Cl
+BRD-K03289018-001-02-7,CCT137690,Aurora kinase inhibitor,12,CC1=CC(=NO1)CN2CCN(CC2)C3=C4C(=NC=C3Br)N=C(N4)C5=CC=C(C=C5)N6CCN(CC6)C
+BRD-K03294269-001-08-0,NU6027,CDK inhibitor,6,C1CCC(CC1)COC2=NC(=NC(=C2N=O)N)N
+BRD-K03390685-001-01-7,cobimetinib,MEK inhibitor,18,C1CCN[C@@H](C1)C2(CN(C2)C(=O)C3=C(C(=C(C=C3)F)F)NC4=C(C=C(C=C4)I)F)O
+BRD-K03549949-001-01-0,XL388,mTOR inhibitor,6,CC1=C(C=CC(=C1F)S(=O)(=O)C)C(=O)N2CCOC3=C(C2)C=C(C=C3)C4=CN=C(C=C4)N
+BRD-K04111260-001-10-0,raclopride,dopamine receptor antagonist,5,CCN1CCC[C@H]1CNC(=O)C2=C(C(=CC(=C2OC)Cl)Cl)O
+BRD-K04196797-001-24-4,oxcarbazepine,sodium channel blocker,1,C1C2=CC=CC=C2N(C3=CC=CC=C3C1=O)C(=O)N
+BRD-K04548931-003-16-5,epirubicin,topoisomerase inhibitor,7,C[C@H]1[C@@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)CO)O)N)O
+BRD-K05104363-001-10-0,PD-184352,MEK inhibitor,18,C1CC1CONC(=O)C2=C(C(=C(C=C2)F)F)NC3=C(C=C(C=C3)I)Cl
+BRD-K05444225-001-01-7,E7449,PARP inhibitor,4,C1C2=CC=CC=C2CN1CC3=NC4=NNC(=O)C5=C4C(=CC=C5)N3
+BRD-K05524748-003-04-4,dronedarone,adrenergic receptor antagonist,21,CCCCC1=C(C2=C(O1)C=CC(=C2)NS(=O)(=O)C)C(=O)C3=CC=C(C=C3)OCCCN(CCCC)CCCC
+BRD-K06753942-001-14-5,nobiletin,MEK inhibitor,4,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(O2)C(=C(C(=C3OC)OC)OC)OC)OC
+BRD-K08799216-001-05-3,pelitinib,EGFR inhibitor,14,CCOC1=C(C=C2C(=C1)N=CC(=C2NC3=CC(=C(C=C3)F)Cl)C#N)NC(=O)/C=C/CN(C)C
+BRD-K09426783-300-01-0,TAS-103,topoisomerase inhibitor,7,CN(C)CCNC1=NC2=C(C=CC(=C2)O)C3=C1C(=O)C4=CC=CC=C43
+BRD-K09443272-001-03-3,PHA-680632,Aurora kinase inhibitor,12,CCC1=C(C(=CC=C1)CC)NC(=O)N2CC3=C(C2)NN=C3NC(=O)C4=CC=C(C=C4)N5CCN(CC5)C
+BRD-K10670311-001-15-5,sulfasalazine,cyclooxygenase inhibitor,23,C1=CC=NC(=C1)NS(=O)(=O)C2=CC=C(C=C2)N=NC3=CC(=C(C=C3)O)C(=O)O
+BRD-K10799896-001-26-2,clobetasol-propionate,glucocorticoid receptor agonist,16,CCC(=O)O[C@@]1([C@H](C[C@@H]2[C@@]1(C[C@@H]([C@]3([C@H]2CCC4=CC(=O)C=C[C@@]43C)F)O)C)C)C(=O)CCl
+BRD-K11071038-001-01-7,ICI-162846,histamine receptor antagonist,16,C1=CN(N=C1NC(=NCC(F)(F)F)N)CCCCC(=O)N
+BRD-K11433652-001-17-0,aspirin,cyclooxygenase inhibitor,15,CC(=O)OC1=CC=CC=C1C(=O)O
+BRD-K11636097-001-03-1,JNJ-7706621,CDK inhibitor,17,C1=CC(=C(C(=C1)F)C(=O)N2C(=NC(=N2)NC3=CC=C(C=C3)S(=O)(=O)N)N)F
+BRD-K11663430-001-02-3,pyroxamide,HDAC inhibitor,11,C1=CC(=CN=C1)NC(=O)CCCCCCC(=O)NO
+BRD-K11853856-001-01-7,PJ-34,PARP inhibitor,2,CN(C)CC(=O)NC1=CC2=C(C=C1)NC(=O)C3=CC=CC=C32
+BRD-K12244279-001-05-8,MEK1-2-inhibitor,MEK inhibitor,13,C1=CC=C(C(=C1)C(C#N)C(=N)SC2=CC=C(C=C2)N)C(F)(F)F
+BRD-K12251893-065-04-7,vincristine,tubulin polymerization inhibitor,3,"CC[C@@]1(C[C@@H]2C[C@@](C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9[C@H]7[C@@](C=CC9)([C@H]([C@@]([C@@H]8N6C=O)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O
+CC[C@@]1(C[C@H]2C[C@@](C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9[C@H]7[C@@](C=CC9)([C@H]([C@@]([C@@H]8N6C=O)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O
+CCC1(CC2CC(C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)C78CCN9C7C(C=CC9)(C(C(C8N6C=O)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O
+CC[C@@]1(C[C@@H]2C[C@@](C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)C78CCN9C7[C@@](C=CC9)([C@H]([C@@](C8N6C=O)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O
+CC[C@@]1(CC2C[C@@](C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9[C@H]7[C@@](C=CC9)([C@H]([C@@]([C@@H]8N6C=O)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O
+CC[C@@]1(CC2C[C@@](C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9C7[C@@](C=CC9)(C([C@@](C8N6C=O)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O
+CC[C@@]1(C[C@@H]2C[C@@](C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9C7[C@@](C=CC9)([C@H]([C@@](C8N6C=O)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O
+CC[C@@]1(C[C@H]2C[C@@](C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)C78CCN9[C@H]7[C@@](C=CC9)([C@@H]([C@@]([C@@H]8N6C=O)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O"
+BRD-K12539581-001-23-7,nocodazole,tubulin polymerization inhibitor,3,COC(=O)NC1=NC2=C(N1)C=C(C=C2)C(=O)C3=CC=CS3
+BRD-K12867552-001-04-7,PCI-24781,HDAC inhibitor,11,CN(C)CC1=C(OC2=CC=CC=C21)C(=O)NCCOC3=CC=C(C=C3)C(=O)NO
+BRD-K13087974-001-02-5,CGP-52411,EGFR inhibitor,4,C1=CC=C(C=C1)NC2=C(C=C3C(=C2)C(=O)NC3=O)NC4=CC=CC=C4
+BRD-K13167095-001-02-9,AR-42,HDAC inhibitor,11,CC(C)[C@@H](C1=CC=CC=C1)C(=O)NC2=CC=C(C=C2)C(=O)NO
+BRD-K13169950-001-14-4,NSC-3852,HDAC inhibitor,7,C1=CC2=C(C=CC(=C2N=C1)O)N=O
+BRD-K13249881-001-02-3,piperazine,benzodiazepine receptor agonist,23,C1CNCCN1
+BRD-K13314656-001-01-0,ebastine,histamine receptor antagonist,14,CC(C)(C)C1=CC=C(C=C1)C(=O)CCCN2CCC(CC2)OC(C3=CC=CC=C3)C4=CC=CC=C4
+BRD-K13390322-001-06-3,AT-7519,CDK inhibitor,0,C1CNCCC1NC(=O)C2=C(C=NN2)NC(=O)C3=C(C=CC=C3Cl)Cl
+BRD-K13662825-001-07-5,dinaciclib,CDK inhibitor,0,CCC1=C2N=C(C=C(N2N=C1)NCC3=C[N+](=CC=C3)[O-])N4CCCC[C@H]4CCO
+BRD-K13810148-311-03-2,givinostat,HDAC inhibitor,11,CCN(CC)CC1=CC2=C(C=C1)C=C(C=C2)COC(=O)NC3=CC=C(C=C3)C(=O)NO
+BRD-K14003026-003-09-0,ritodrine,adrenergic receptor agonist,10,"C[C@H]([C@H](C1=CC=C(C=C1)O)O)NCCC2=CC=C(C=C2)O
+C[C@@H]([C@@H](C1=CC=C(C=C1)O)O)NCCC2=CC=C(C=C2)O
+CC(C(C1=CC=C(C=C1)O)O)NCCC2=CC=C(C=C2)O"
+BRD-K15071410-001-01-1,tiotidine,histamine receptor antagonist,4,CN=C(NCCSCC1=CSC(=N1)N=C(N)N)NC#N
+BRD-K16195444-003-26-0,oxymetazoline,adrenergic receptor agonist,16,CC1=CC(=C(C(=C1CC2=NCCN2)C)O)C(C)(C)C
+BRD-K16277217-001-10-9,piperacetazine,dopamine receptor antagonist,5,CC(=O)C1=CC2=C(C=C1)SC3=CC=CC=C3N2CCCN4CCC(CC4)CCO
+BRD-K16478699-001-09-2,PLX-4720,RAF inhibitor,12,CCCS(=O)(=O)NC1=C(C(=C(C=C1)F)C(=O)C2=CNC3=C2C=C(C=N3)Cl)F
+BRD-K17294426-050-12-3,clebopride,dopamine receptor antagonist,20,COC1=CC(=C(C=C1C(=O)NC2CCN(CC2)CC3=CC=CC=C3)Cl)N
+BRD-K17610631-001-03-3,indisulam,CDK inhibitor,9,C1=CC2=C(C(=C1)NS(=O)(=O)C3=CC=C(C=C3)S(=O)(=O)N)NC=C2Cl
+BRD-K17702546-001-03-2,PD-168393,EGFR inhibitor,14,C=CC(=O)NC1=CC2=C(C=C1)N=CN=C2NC3=CC(=CC=C3)Br
+BRD-K17743125-001-08-4,belinostat,HDAC inhibitor,11,C1=CC=C(C=C1)NS(=O)(=O)C2=CC=CC(=C2)/C=C/C(=O)NO
+BRD-K20290250-001-02-1,BIX-02188,MEK inhibitor,2,CN(C)CC1=CC(=CC=C1)N=C(C2=CC=CC=C2)C3=C(NC4=C3C=CC(=C4)C(=O)N)O
+BRD-K20468903-001-01-6,BNC105,tubulin polymerization inhibitor,3,CC1=C(C2=C(O1)C(=C(C=C2)OC)O)C(=O)C3=CC(=C(C(=C3)OC)OC)OC
+BRD-K20722021-001-02-1,CEP-32496,RAF inhibitor,10,CC(C)(C1=CC(=NO1)NC(=O)NC2=CC(=CC=C2)OC3=NC=NC4=CC(=C(C=C43)OC)OC)C(F)(F)F
+BRD-K21528677-001-02-8,desonide,glucocorticoid receptor agonist,16,C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1C[C@@H]4[C@]2(OC(O4)(C)C)C(=O)CO)CCC5=CC(=O)C=C[C@]35C)O
+BRD-K21565985-001-22-5,xylazine,adrenergic receptor agonist,8,CC1=C(C(=CC=C1)C)NC2=NCCCS2
+BRD-K21673112-003-01-3,BF2.649,histamine receptor antagonist,5,C1CCN(CC1)CCCOCCCC2=CC=C(C=C2)Cl
+BRD-K21680192-300-14-4,mitoxantrone,topoisomerase inhibitor,7,C1=CC(=C2C(=C1NCCNCCO)C(=O)C3=C(C=CC(=C3C2=O)O)O)NCCNCCO
+BRD-K21728777-001-02-3,AMG900,Aurora kinase inhibitor,12,CC1=CSC(=C1)C2=NN=C(C3=CC=CC=C32)NC4=CC=C(C=C4)OC5=C(C=CC=N5)C6=NC(=NC=C6)N
+BRD-K22503835-001-11-0,scriptaid,HDAC inhibitor,11,C1=CC2=C3C(=C1)C(=O)N(C(=O)C3=CC=C2)CCCCCC(=O)NO
+BRD-K23363278-001-02-1,CYT-997,tubulin polymerization inhibitor,3,CCC[C@@H](C1=CN=CC=C1)NC2=NC(=NC=C2C)C3=CC(=C(C=C3)NC(=O)NCC)OC
+BRD-K23677682-003-01-2,voreloxin,topoisomerase inhibitor,7,CN[C@H]1CN(C[C@@H]1OC)C2=NC3=C(C=C2)C(=O)C(=CN3C4=NC=CS4)C(=O)O
+BRD-K24869513-001-02-1,CNX-2006,EGFR inhibitor,14,COC1=C(C=CC(=C1)NC2CN(C2)CCF)NC3=NC=C(C(=N3)NC4=CC(=CC=C4)NC(=O)C=C)C(F)(F)F
+BRD-K25279140-001-01-5,MK-8745,Aurora kinase inhibitor,3,C1CN(CCN1CC2=NC(=CC=C2)NC3=NC=CS3)C(=O)C4=C(C(=CC=C4)Cl)F
+BRD-K25596805-001-01-8,JNJ-16259685,glutamate receptor antagonist,1,COC1CCC(CC1)C(=O)C2=CC3=CC4=C(N=C3C=C2)OCCC4
+BRD-K26011976-001-01-0,licochalcone-a,topoisomerase inhibitor,4,CC(C)(C=C)C1=C(C=C(C(=C1)/C=C/C(=O)C2=CC=C(C=C2)O)OC)O
+BRD-K26026438-001-01-0,tucatinib,EGFR inhibitor,14,CC1=C(C=CC(=C1)NC2=NC=NC3=C2C=C(C=C3)NC4=NC(CO4)(C)C)OC5=CC6=NC=NN6C=C5
+BRD-K26603252-003-04-9,PD-153035,EGFR inhibitor,14,COC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC(=CC=C3)Br)OC
+BRD-K26667523-001-02-5,TAK-733,MEK inhibitor,18,CN1C2=C(C(=C(C1=O)F)NC3=C(C=C(C=C3)I)F)C(=O)N(C=N2)C[C@H](CO)O
+BRD-K26824830-001-02-0,azomycin-(2-nitroimidazole),protein synthesis inhibitor,1,C1=CN=C(N1)[N+](=O)[O-]
+BRD-K26838195-075-04-9,AST-1306,EGFR inhibitor,14,C=CC(=O)NC1=CC2=C(C=C1)N=CN=C2NC3=CC(=C(C=C3)OCC4=CC(=CC=C4)F)Cl
+BRD-K27184429-300-01-3,levocetirizine,histamine receptor antagonist,4,C1CN(CCN1CCOCC(=O)O)[C@H](C2=CC=CC=C2)C3=CC=C(C=C3)Cl
+BRD-K27217864-001-22-3,butamben,sodium channel blocker,6,CCCCOC(=O)C1=CC=C(C=C1)N
+BRD-K27771035-001-02-5,clindamycin-phosphate,protein synthesis inhibitor,13,CCC[C@@H]1C[C@H](N(C1)C)C(=O)N[C@@H]([C@@H]2[C@@H]([C@@H]([C@H]([C@H](O2)SC)OP(=O)(O)O)O)O)[C@H](C)Cl
+BRD-K28061410-001-06-6,beta-lapachone,topoisomerase inhibitor,0,CC1(CCC2=C(O1)C3=CC=CC=C3C(=O)C2=O)C
+BRD-K28143534-001-02-2,cyproheptadine,histamine receptor antagonist,8,CN1CCC(=C2C3=CC=CC=C3C=CC4=CC=CC=C42)CC1
+BRD-K28352084-001-02-3,CH5132799,PI3K inhibitor,6,CS(=O)(=O)N1CCC2=C(N=C(N=C21)N3CCOCC3)C4=CN=C(N=C4)N
+BRD-K28537285-001-01-8,chidamide,HDAC inhibitor,11,"C1=CC(=CN=C1)/C=C/C(=O)NCC2=CC=C(C=C2)C(=O)NC3=C(C=CC(=C3)F)N
+C1=CC(=CN=C1)C=CC(=O)NCC2=CC=C(C=C2)C(=O)NC3=C(C=CC(=C3)F)N"
+BRD-K28570407-001-02-0,A-803467,sodium channel blocker,1,COC1=CC(=CC(=C1)NC(=O)C2=CC=C(O2)C3=CC=C(C=C3)Cl)OC
+BRD-K29415052-050-04-8,BGT226,PI3K inhibitor,6,CN1C2=CN=C3C=CC(=CC3=C2N(C1=O)C4=CC(=C(C=C4)N5CCNCC5)C(F)(F)F)C6=CN=C(C=C6)OC
+BRD-K30990140-003-02-4,FR-122047,cyclooxygenase inhibitor,8,CN1CCN(CC1)C(=O)C2=NC(=C(S2)C3=CC=C(C=C3)OC)C4=CC=C(C=C4)OC
+BRD-K31627533-001-09-5,rimexolone,glucocorticoid receptor agonist,16,CCC(=O)[C@]1([C@@H](C[C@@H]2[C@@]1(C[C@@H]([C@H]3[C@H]2CCC4=CC(=O)C=C[C@]34C)O)C)C)C
+BRD-K31698212-001-02-9,icotinib,EGFR inhibitor,14,C#CC1=CC(=CC=C1)NC2=NC=NC3=CC4=C(C=C32)OCCOCCOCCO4
+BRD-K31812033-003-11-0,levobunolol,adrenergic receptor antagonist,2,CC(C)(C)NC[C@@H](COC1=CC=CC2=C1CCCC2=O)O
+BRD-K31866293-001-01-6,TAK-632,RAF inhibitor,11,C1CC1C(=O)NC2=NC3=C(S2)C(=C(C=C3)OC4=CC(=C(C=C4)F)NC(=O)CC5=CC(=CC=C5)C(F)(F)F)C#N
+BRD-K31928526-001-02-1,barasertib,Aurora kinase inhibitor,12,CCN(CCCOC1=CC2=C(C=C1)C(=NC=N2)NC3=NNC(=C3)CC(=O)NC4=CC(=CC=C4)F)CCOP(=O)(O)O
+BRD-K33610132-001-02-9,rociletinib,EGFR inhibitor,14,CC(=O)N1CCN(CC1)C2=CC(=C(C=C2)NC3=NC=C(C(=N3)NC4=CC(=CC=C4)NC(=O)C=C)C(F)(F)F)OC
+BRD-K33622447-066-01-9,abemaciclib,CDK inhibitor,9,CCN1CCN(CC1)CC2=CN=C(C=C2)NC3=NC=C(C(=N3)C4=CC5=C(C(=C4)F)N=C(N5C(C)C)C)F
+BRD-K33720171-001-01-0,difluprednate,glucocorticoid receptor agonist,16,CCCC(=O)O[C@@]1(CC[C@@H]2[C@@]1(C[C@@H]([C@]3([C@H]2C[C@@H](C4=CC(=O)C=C[C@@]43C)F)F)O)C)C(=O)COC(=O)C
+BRD-K33882852-003-02-8,ZK-93423,benzodiazepine receptor agonist,17,CCOC(=O)C1=NC=C2C(=C1COC)C3=C(N2)C=CC(=C3)OCC4=CC=CC=C4
+BRD-K34157611-001-16-0,cimetidine,histamine receptor antagonist,15,CC1=C(N=CN1)CSCCNC(=NC)NC#N
+BRD-K34251960-036-01-6,cibenzoline,sodium channel blocker,15,C1CN=C(N1)C2CC2(C3=CC=CC=C3)C4=CC=CC=C4
+BRD-K34533029-001-08-5,tyrphostin-AG-494,EGFR inhibitor,8,C1=CC=C(C=C1)NC(=O)/C(=C/C2=CC(=C(C=C2)O)O)/C#N
+BRD-K35240538-001-26-2,methylprednisolone,glucocorticoid receptor agonist,16,C[C@H]1C[C@H]2[C@@H]3CC[C@@]([C@]3(C[C@@H]([C@@H]2[C@@]4(C1=CC(=O)C=C4)C)O)C)(C(=O)CO)O
+BRD-K35245662-001-01-2,ciclesonide,glucocorticoid receptor agonist,16,CC(C)C(=O)OCC(=O)[C@@]12[C@@H](C[C@@H]3[C@@]1(C[C@@H]([C@H]4[C@H]3CCC5=CC(=O)C=C[C@]45C)O)C)O[C@H](O2)C6CCCCC6
+BRD-K36055864-001-19-2,cycloheximide,protein synthesis inhibitor,5,C[C@H]1C[C@@H](C(=O)[C@@H](C1)[C@@H](CC2CC(=O)NC(=O)C2)O)C
+BRD-K36529613-001-02-6,PU-H71,HSP inhibitor,0,CC(C)NCCCN1C2=NC=NC(=C2N=C1SC3=C(C=C4C(=C3)OCO4)I)N
+BRD-K36740062-001-06-6,GSK1070916,Aurora kinase inhibitor,12,CCN1C=C(C(=N1)C2=CC=C(C=C2)NC(=O)N(C)C)C3=C4C=C(NC4=NC=C3)C5=CC=CC(=C5)CN(C)C
+BRD-K36788280-001-01-2,ribociclib,CDK inhibitor,9,CN(C)C(=O)C1=CC2=CN=C(N=C2N1C3CCCC3)NC4=NC=C(C=C4)N5CCNCC5
+BRD-K37249724-001-25-7,astemizole,histamine receptor antagonist,8,COC1=CC=C(C=C1)CCN2CCC(CC2)NC3=NC4=CC=CC=C4N3CC5=CC=C(C=C5)F
+BRD-K37687095-001-06-9,AZD8330,MEK inhibitor,18,CC1=CC(=C(N(C1=O)C)NC2=C(C=C(C=C2)I)F)C(=O)NOCCO
+BRD-K37798499-001-27-2,etoposide,topoisomerase inhibitor,7,C[C@@H]1OC[C@@H]2[C@@H](O1)[C@@H]([C@H]([C@@H](O2)O[C@H]3[C@H]4COC(=O)[C@@H]4[C@@H](C5=CC6=C(C=C35)OCO6)C7=CC(=C(C(=C7)OC)O)OC)O)O
+BRD-K37890730-001-15-1,camptothecin,topoisomerase inhibitor,7,CC[C@@]1(C2=C(COC1=O)C(=O)N3CC4=CC5=CC=CC=C5N=C4C3=C2)O
+BRD-K38305202-001-17-4,domperidone,dopamine receptor antagonist,18,C1CN(CCC1N2C3=C(C=C(C=C3)Cl)NC2=O)CCCN4C5=CC=CC=C5NC4=O
+BRD-K38350380-001-01-8,FK-3311,cyclooxygenase inhibitor,13,CC(=O)C1=CC(=C(C=C1)NS(=O)(=O)C)OC2=C(C=C(C=C2)F)F
+BRD-K38458514-001-01-8,diazooxonorleucine,glutamate receptor antagonist,1,C(CC(=O)C=[N+]=[N-])[C@@H](C(=O)O)N
+BRD-K38548312-001-01-0,VER-49009,HSP inhibitor,0,CCNC(=O)C1=C(C(=NN1)C2=CC(=C(C=C2O)O)Cl)C3=CC=C(C=C3)OC
+BRD-K38852836-001-02-1,ganetespib,HSP inhibitor,9,CC(C)C1=C(C=C(C(=C1)C2=NNC(=O)N2C3=CC4=C(C=C3)N(C=C4)C)O)O
+BRD-K39252998-003-01-5,atipamezole,adrenergic receptor antagonist,12,CCC1(CC2=CC=CC=C2C1)C3=CN=CN3
+BRD-K39381259-001-01-0,DMH1,ALK tyrosine kinase receptor inhibitor,8,CC(C)OC1=CC=C(C=C1)C2=CN3C(=C(C=N3)C4=CC=NC5=CC=CC=C45)N=C2
+BRD-K40109029-001-02-9,SB-505124,ALK tyrosine kinase receptor inhibitor,22,CC1=NC(=CC=C1)C2=C(N=C(N2)C(C)(C)C)C3=CC4=C(C=C3)OCO4
+BRD-K40175214-001-11-6,torin-1,mTOR inhibitor,6,CCC(=O)N1CCN(CC1)C2=C(C=C(C=C2)N3C(=O)C=CC4=CN=C5C=CC(=CC5=C43)C6=CC7=CC=CC=C7N=C6)C(F)(F)F
+BRD-K40331046-305-01-5,CR8-(R),CDK inhibitor,0,CC[C@H](CO)NC1=NC(=C2C(=N1)N(C=N2)C(C)C)NCC3=CC=C(C=C3)C4=CC=CC=N4
+BRD-K41213548-001-02-0,KW-2478,HSP inhibitor,12,CCC1=C(C(=C(C=C1O)O)C(=O)C2=CC(=C(C=C2)OCCN3CCOCC3)OC)CC(=O)N(CCOC)CCOC
+BRD-K41859756-001-06-8,NVP-AUY922,HSP inhibitor,9,CCNC(=O)C1=NOC(=C1C2=CC=C(C=C2)CN3CCOCC3)C4=CC(=C(C=C4O)O)C(C)C
+BRD-K42191735-001-05-3,buparlisib,PI3K inhibitor,6,C1COCCN1C2=NC(=NC(=C2)C3=CN=C(C=C3C(F)(F)F)N)N4CCOCC4
+BRD-K42673188-001-01-1,verubulin,tubulin polymerization inhibitor,3,CC1=NC2=CC=CC=C2C(=N1)N(C)C3=CC=C(C=C3)OC
+BRD-K42805893-001-04-9,osimertinib,EGFR inhibitor,14,CN1C=C(C2=CC=CC=C21)C3=NC(=NC=C3)NC4=C(C=C(C(=C4)NC(=O)C=C)N(C)CCN(C)C)OC
+BRD-K42898655-001-01-8,temsirolimus,mTOR inhibitor,6,"C[C@@H]1CC[C@H]2C[C@@H](/C(=C/C=C/C=C/[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)OC(=O)C(C)(CO)CO)C)/C)O)OC)C)C)/C)OC
+C[C@@H]1CC[C@H]2C[C@@H](/C(=C/C=C/C=C\[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)OC(=O)C(C)(CO)CO)C)/C)O)OC)C)C)/C)OC
+CC1CCC2CC(C(=CC=CC=CC(CC(C(=O)C(C(C(=CC(C(=O)CC(OC(=O)C3CCCCN3C(=O)C(=O)C1(O2)O)C(C)CC4CCC(C(C4)OC)OC(=O)C(C)(CO)CO)C)C)O)OC)C)C)C)OC
+C[C@@H]1CCC2C[C@@H](/C(=C/C=C/C=C/[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)OC(=O)C(C)(CO)CO)C)/C)O)OC)C)C)/C)OC
+C[C@@H]1CC[C@H]2C[C@@H](C(=CC=CC=C[C@H](C[C@H](C(=O)[C@@H]([C@@H](C(=C[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)OC(=O)C(C)(CO)CO)C)C)O)OC)C)C)C)OC
+C[C@@H]1CC[C@H]2C[C@@H](/C(=C/C=C\C=C\[C@H](C[C@H](C(=O)[C@H]([C@H](/C(=C\[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)OC(=O)C(C)(CO)CO)C)/C)O)OC)C)C)/C)OC
+C[C@@H]1CC[C@H]2C[C@@H](/C(=C\C=C/C=C\[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C\[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)OC(=O)C(C)(CO)CO)C)/C)O)OC)C)C)/C)OC
+C[C@@H]1CC[C@H]2C[C@@H](C(=CC=C/C=C\[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C\[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)OC(=O)C(C)(CO)CO)C)/C)O)OC)C)C)C)OC
+CC1CCC2CC(C(=CC=CC=CC(CC(C(=O)C(C(C(=CC(C(=O)CC(OC(=O)C3CCCCN3C(=O)C(=O)[C@@]1(O2)O)C(C)CC4CCC(C(C4)OC)OC(=O)C(C)(CO)CO)C)C)O)OC)C)C)C)OC
+CC1CCC2CC(/C(=C\C=C/C=C\C(CC(C(=O)C(C(/C(=C\C(C(=O)CC(OC(=O)C3CCCCN3C(=O)C(=O)C1(O2)O)C(C)CC4CCC(C(C4)OC)OC(=O)C(C)(CO)CO)C)/C)O)OC)C)C)/C)OC
+C[C@@H]1CC[C@H]2C[C@@H](C(=CC=C/C=C/[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)OC(=O)C(C)(CO)CO)C)/C)O)OC)C)C)C)OC
+C[C@@H]1CC[C@H]2C[C@@H](C(=C/C=C/C=C/[C@H](C[C@H](C(=O)[C@@H]([C@@H](C(=C[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)OC(=O)C(C)(CO)CO)C)C)O)OC)C)C)C)OC
+C[C@@H]1CC[C@H]2CC(/C(=C/C=C/C=C/[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)OC(=O)C(C)(CO)CO)C)/C)O)OC)C)C)/C)OC
+C[C@@H]1CC[C@H]2C[C@@H](/C(=C\C=C\C=C[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)OC(=O)C(C)(CO)CO)C)/C)O)OC)C)C)/C)OC
+C[C@@H]1CC[C@H]2CC(/C(=C/C=C/C=C/[C@H](C[C@H](C(=O)C([C@@H](/C(=C/[C@H](C(=O)CC(OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)OC(=O)C(C)(CO)CO)C)/C)O)OC)C)C)/C)OC
+C[C@H]\1C[C@H](C(=O)C([C@@H](/C(=C/C(C(=O)C[C@H](OC(=O)[C@@H]2CCCCN2C(=O)C(=O)[C@]3(C(CC[C@H](O3)CC(/C(=C/C=C/C=C1)/C)OC)C)O)C(C)CC4CCC([C@@H](C4)OC)OC(=O)C(C)(CO)CO)C)/C)O)OC)C
+C[C@@H]1CC[C@H]2C[C@@H](/C(=C\C=C/C=C\[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C\[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@H]4CC[C@H]([C@@H](C4)OC)OC(=O)C(C)(CO)CO)C)/C)O)OC)C)C)/C)OC
+C[C@@H]1CC[C@H]2C[C@@H](/C(=C\C=C/C=C\[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@H]4CC[C@H]([C@@H](C4)OC)OC(=O)C(C)(CO)CO)C)/C)O)OC)C)C)/C)OC
+C[C@@H]1CC[C@H]2CC(/C(=C\C=C\C=C[C@H](C[C@H](C(=O)C([C@@H](/C(=C/[C@H](C(=O)CC(OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)OC(=O)C(C)(CO)CO)C)/C)O)OC)C)C)/C)OC
+C[C@@H]1CC[C@H]2C[C@@H](/C(=C/C=C/C=C\[C@H](C[C@H](C(=O)C([C@@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)OC(=O)C(C)(CO)CO)C)/C)O)OC)C)C)/C)OC
+C[C@@H]1CC[C@@H]2C[C@@H](C(=CC=C/C=C/[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)OC(=O)C(C)(CO)CO)C)/C)O)OC)C)C)C)OC"
+BRD-K42938903-332-01-1,acetophenazine,dopamine receptor antagonist,4,CC(=O)C1=CC2=C(C=C1)SC3=CC=CC=C3N2CCCN4CCN(CC4)CCO
+BRD-K44844162-001-01-6,taselisib,PI3K inhibitor,6,CC1=NN(C(=N1)C2=CN3CCOC4=C(C3=N2)C=CC(=C4)C5=CN(N=C5)C(C)(C)C(=O)N)C(C)C
+BRD-K44993696-001-12-3,atenolol-(-),adrenergic receptor antagonist,1,CC(C)NC[C@@H](COC1=CC=C(C=C1)CC(=O)N)O
+BRD-K45528773-001-07-2,M-344,HDAC inhibitor,11,CN(C)C1=CC=C(C=C1)C(=O)NCCCCCCC(=O)NO
+BRD-K45724504-001-01-6,anguidine,protein synthesis inhibitor,0,"CC1=CC2C(CC1)(C3(C(C(C(C34CO4)O2)O)OC(=O)C)C)COC(=O)C
+CC1=C[C@@H]2[C@](CC1)([C@]3([C@@H]([C@H]([C@H]([C@@]34CO4)O2)O)OC(=O)C)C)COC(=O)C
+CC1=C[C@@H]2[C@](CC1)([C@]3([C@@H]([C@H]([C@H]([C@]34CO4)O2)O)OC(=O)C)C)COC(=O)C
+CC1=C[C@@H]2[C@](CC1)(C3([C@@H]([C@H]([C@H](C34CO4)O2)O)OC(=O)C)C)COC(=O)C"
+BRD-K46386702-001-02-1,ARRY-334543,EGFR inhibitor,14,C[C@@H]1COC(=N1)NC2=CC3=C(C=C2)N=CN=C3NC4=CC(=C(C=C4)OCC5=NC=CS5)Cl
+BRD-K46392623-001-02-5,TG-100713,PI3K inhibitor,14,C1=CC(=CC(=C1)O)C2=CN=C3C(=N2)C(=NC(=N3)N)N
+BRD-K46585355-001-14-3,acetylsalicylsalicylic-acid,cyclooxygenase inhibitor,2,CC(=O)OC1=CC=CC=C1C(=O)OC2=CC=CC=C2C(=O)O
+BRD-K46937689-001-15-0,phenazone,cyclooxygenase inhibitor,23,CC1=CC(=O)N(N1C)C2=CC=CC=C2
+BRD-K47635719-001-21-1,dexamethasone-acetate,glucocorticoid receptor agonist,16,C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)COC(=O)C)O)C)O)F)C
+BRD-K48195801-001-01-6,tecastemizole,histamine receptor antagonist,6,C1CNCCC1NC2=NC3=CC=CC=C3N2CC4=CC=C(C=C4)F
+BRD-K48488978-001-05-3,YM-201636,PI3K inhibitor,5,C1COCCN1C2=NC(=NC3=C2OC4=C3C=CC=N4)C5=CC(=CC=C5)NC(=O)C6=CN=C(C=C6)N
+BRD-K48578705-001-17-6,methyldopa,adrenergic receptor agonist,15,C[C@](CC1=CC(=C(C=C1)O)O)(C(=O)O)N
+BRD-K49111258-003-29-7,prazosin,adrenergic receptor antagonist,13,COC1=C(C=C2C(=C1)C(=NC(=N2)N3CCN(CC3)C(=O)C4=CC=CO4)N)OC
+BRD-K49294207-300-03-8,BIBU-1361,EGFR inhibitor,14,CCN(CC)CC1CCN(CC1)C2=NC=C3C(=N2)C(=NC=N3)NC4=CC(=C(C=C4)F)Cl
+BRD-K49456274-001-01-9,pilaralisib,PI3K inhibitor,10,CC(C)(C(=O)NC1=CC(=CC=C1)S(=O)(=O)NC2=NC3=CC=CC=C3N=C2NC4=C(C=CC(=C4)OC)Cl)N
+BRD-K49865102-001-08-4,PD-0325901,MEK inhibitor,18,C1=CC(=C(C=C1I)F)NC2=C(C=CC(=C2F)F)C(=O)NOC[C@@H](CO)O
+BRD-K50140147-001-10-1,NVP-TAE684,ALK tyrosine kinase receptor inhibitor,0,CC(C)S(=O)(=O)C1=CC=CC=C1NC2=NC(=NC=C2Cl)NC3=C(C=C(C=C3)N4CCC(CC4)N5CCN(CC5)C)OC
+BRD-K50168500-001-07-9,canertinib,EGFR inhibitor,14,C=CC(=O)NC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC(=C(C=C3)F)Cl)OCCCN4CCOCC4
+BRD-K51318897-001-15-3,fenbendazole,tubulin polymerization inhibitor,23,COC(=O)NC1=NC2=C(N1)C=C(C=C2)SC3=CC=CC=C3
+BRD-K51791723-003-01-7,P276-00,CDK inhibitor,0,"CN1CC[C@H]([C@@H]1CO)C2=C(C=C(C3=C2OC(=CC3=O)C4=CC=CC=C4Cl)O)O.Cl
+CN1CC[C@H]([C@@H]1CO)C2=C(C=C(C3=C2OC(=CC3=O)C4=CC=CC=C4Cl)O)O"
+BRD-K51911221-001-01-2,nemorubicin,topoisomerase inhibitor,0,C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)CO)O)N6CCO[C@@H](C6)OC)O
+BRD-K51967704-001-03-6,BIIB021,HSP inhibitor,9,CC1=CN=C(C(=C1OC)C)CN2C=NC3=C2N=C(N=C3Cl)N
+BRD-K52075715-001-06-7,oxibendazole,tubulin polymerization inhibitor,3,CCCOC1=CC2=C(C=C1)N=C(N2)NC(=O)OC
+BRD-K52233191-001-02-4,R547,CDK inhibitor,7,COC1=C(C(=C(C=C1)F)F)C(=O)C2=CN=C(N=C2N)NC3CCN(CC3)S(=O)(=O)C
+BRD-K52313696-001-12-3,tacedinaline,HDAC inhibitor,11,CC(=O)NC1=CC=C(C=C1)C(=O)NC2=CC=CC=C2N
+BRD-K52911425-001-09-8,GDC-0941,PI3K inhibitor,6,CS(=O)(=O)N1CCN(CC1)CC2=CC3=C(S2)C(=NC(=N3)C4=C5C=NNC5=CC=C4)N6CCOCC6
+BRD-K53523901-001-04-4,arctigenin,MEK inhibitor,17,COC1=C(C=C(C=C1)C[C@H]2COC(=O)[C@@H]2CC3=CC(=C(C=C3)O)OC)OC
+BRD-K53561341-001-07-5,aurora-a-inhibitor-i,Aurora kinase inhibitor,2,CCN1CCN(CC1)C(=O)CC2=CC=C(C=C2)NC3=NC=C(C(=N3)NC4=CC=C(C=C4)C(=O)NC5=CC=CC=C5Cl)F
+BRD-K53665955-001-03-0,MK-5108,Aurora kinase inhibitor,3,C1CC(CCC1OC2=C(C(=CC=C2)Cl)F)(CC3=NC(=CC=C3)NC4=NC=CS4)C(=O)O
+BRD-K54094468-003-11-1,remoxipride,dopamine receptor antagonist,1,CCN1CCC[C@H]1CNC(=O)C2=C(C=CC(=C2OC)Br)OC
+BRD-K54955827-001-02-2,niraparib,PARP inhibitor,9,C1C[C@H](CNC1)C2=CC=C(C=C2)N3C=C4C=CC=C(C4=N3)C(=O)N
+BRD-K54997624-001-06-0,alpelisib,PI3K inhibitor,6,CC1=C(SC(=N1)NC(=O)N2CCC[C@H]2C(=O)N)C3=CC(=NC=C3)C(C)(C)C(F)(F)F
+BRD-K55696337-003-24-4,topotecan,topoisomerase inhibitor,7,CC[C@@]1(C2=C(COC1=O)C(=O)N3CC4=CC5=C(C=CC(=C5CN(C)C)O)N=C4C3=C2)O
+BRD-K55703048-001-07-7,latrepirdine,glutamate receptor antagonist,15,CC1=CC2=C(C=C1)N(C3=C2CN(CC3)C)CCC4=CN=C(C=C4)C
+BRD-K56032964-001-02-1,AP26113,ALK tyrosine kinase receptor inhibitor,13,CN(C)C1CCN(CC1)C2=CC(=C(C=C2)NC3=NC=C(C(=N3)NC4=CC=CC=C4P(=O)(C)C)Cl)OC
+BRD-K56334280-001-05-1,amonafide,topoisomerase inhibitor,5,CN(C)CCN1C(=O)C2=CC=CC3=CC(=CC(=C32)C1=O)N
+BRD-K56957086-001-06-3,dacinostat,HDAC inhibitor,11,C1=CC=C2C(=C1)C(=CN2)CCN(CCO)CC3=CC=C(C=C3)/C=C/C(=O)NO
+BRD-K57080016-001-15-9,selumetinib,MEK inhibitor,18,CN1C=NC2=C1C=C(C(=C2F)NC3=C(C=C(C=C3)Br)Cl)C(=O)NOCCO
+BRD-K57136142-001-02-4,CCT129202,Aurora kinase inhibitor,12,CN(C)C1=CC=C(C=C1)C2=NC3=NC=C(C(=C3N2)N4CCN(CC4)CC(=O)NC5=NC=CS5)Cl
+BRD-K57169635-001-04-5,dacomitinib,EGFR inhibitor,14,COC1=C(C=C2C(=C1)N=CN=C2NC3=CC(=C(C=C3)F)Cl)NC(=O)/C=C/CN4CCCCC4
+BRD-K58122457-001-02-2,hesperadin,Aurora kinase inhibitor,12,CCS(=O)(=O)NC1=CC2=C(C=C1)NC(=C2C(=NC3=CC=C(C=C3)CN4CCCCC4)C5=CC=CC=C5)O
+BRD-K58770988-001-01-8,NMS-E973,HSP inhibitor,12,CN1CCC(CC1)NC(=O)C2=NOC(=C2)C3=C(C=C(C=C3OC4=CC=C(C=C4)[N+](=O)[O-])O)O
+BRD-K58772419-001-07-0,AZD6482,PI3K inhibitor,3,CC1=CN2C(=O)C=C(N=C2C(=C1)[C@@H](C)NC3=CC=CC=C3C(=O)O)N4CCOCC4
+BRD-K59197931-001-04-5,naproxen,cyclooxygenase inhibitor,10,C[C@@H](C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O
+BRD-K59317601-001-05-5,MLN0128,mTOR inhibitor,6,CC(C)N1C2=NC=NC(=C2C(=N1)C3=CC4=C(C=C3)OC(=N4)N)N
+BRD-K59632282-052-03-1,quinidine,sodium channel blocker,8,COC1=CC2=C(C=CN=C2C=C1)[C@@H]([C@H]3C[C@@H]4CCN3C[C@@H]4C=C)O
+BRD-K59753975-001-02-6,vindesine,tubulin polymerization inhibitor,3,CC[C@@]1(C[C@@H]2C[C@@](C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9[C@H]7[C@@](C=CC9)([C@H]([C@@]([C@@H]8N6C)(C(=O)N)O)O)CC)OC)C(=O)OC)O
+BRD-K60866521-001-07-1,idelalisib,PI3K inhibitor,6,CC[C@@H](C1=NC2=C(C(=CC=C2)F)C(=O)N1C3=CC=CC=C3)NC4=NC=NC5=C4NC=N5
+BRD-K61195623-001-01-4,combretastatin-A-4,tubulin polymerization inhibitor,3,COC1=C(C=C(C=C1)/C=C\C2=CC(=C(C(=C2)OC)OC)OC)O
+BRD-K61314889-001-04-4,endo-IWR-1,PARP inhibitor,4,C1[C@@H]2C=C[C@H]1[C@@H]3[C@H]2C(=O)N(C3=O)C4=CC=C(C=C4)C(=O)NC5=CC=CC6=C5N=CC=C6
+BRD-K61397605-001-03-4,romidepsin,HDAC inhibitor,11,C/C=C\1/C(=O)N[C@H](C(=O)O[C@H]\2CC(=O)N[C@@H](C(=O)N[C@H](CSSCC/C=C2)C(=O)N1)C(C)C)C(C)C
+BRD-K61496577-001-20-2,flumethasone,glucocorticoid receptor agonist,16,C[C@@H]1C[C@H]2[C@@H]3C[C@@H](C4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)CO)O)C)O)F)C)F
+BRD-K61642990-001-01-0,FERb-033,EGFR inhibitor,15,C1=CC(=C(C=C1C2=C(C(=C(C=C2)/C=N/O)O)Cl)F)O
+BRD-K61688984-001-02-9,RGFP966,HDAC inhibitor,8,C1=CC=C(C=C1)/C=C/CN2C=C(C=N2)/C=C/C(=O)NC3=C(C=C(C=C3)F)N
+BRD-K61717546-001-05-0,fleroxacin,topoisomerase inhibitor,15,CN1CCN(CC1)C2=C(C=C3C(=C2F)N(C=C(C3=O)C(=O)O)CCF)F
+BRD-K62304154-001-04-2,deforolimus,mTOR inhibitor,6,"C[C@@H]1CC[C@H]2C[C@@H](/C(=C/C=C/C=C/[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)OP(=O)(C)C)C)/C)O)OC)C)C)/C)OC
+C[C@@H]1CC[C@H]2C[C@@H](/C(=C\C=C/C=C\[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C\[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)OP(=O)(C)C)C)/C)O)OC)C)C)/C)OC
+C[C@@H]1CCC2C[C@@H](/C(=C/C=C/C=C/[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CCC([C@@H](C4)OC)OP(=O)(C)C)C)/C)O)OC)C)C)/C)OC
+C[C@@H]1CC[C@H]2C[C@@H](/C(=C/C=C\C=C\[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C\[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)OP(=O)(C)C)C)/C)O)OC)C)C)/C)OC
+C[C@@H]1CCC2C[C@@H](/C(=C/C=C/C=C/[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)OP(=O)(C)C)C)/C)O)OC)C)C)/C)OC
+C[C@@H]1CC[C@H]2CC(/C(=C/C=C/C=C/[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)OP(=O)(C)C)C)/C)O)OC)C)C)/C)OC
+CC1CCC2CC(C(=CC=CC=CC(CC(C(=O)C(C(C(=CC(C(=O)CC(OC(=O)C3CCCCN3C(=O)C(=O)C1(O2)O)C(C)CC4CCC(C(C4)OC)OP(=O)(C)C)C)C)O)OC)C)C)C)OC
+C[C@@H]1CC[C@H]2C[C@H](/C(=C/C=C/C=C/[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)OP(=O)(C)C)C)/C)O)OC)C)C)/C)OC
+C[C@@H]1CC[C@H]2C[C@@H](/C(=C/C=C/C=C/[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)C1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)OP(=O)(C)C)C)/C)O)OC)C)C)/C)OC
+C[C@@H]1CC[C@H]2C[C@@H](C(=CC=C/C=C/[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)OP(=O)(C)C)C)/C)O)OC)C)C)C)OC
+CC1CCC2CC(/C(=C\C=C\C=C\C(CC(C(=O)C(C(/C(=C/C(C(=O)CC(OC(=O)C3CCCCN3C(=O)C(=O)C1(O2)O)C(C)CC4CCC(C(C4)OC)OP(=O)(C)C)C)/C)O)OC)C)C)/C)OC
+C[C@@H]1CC[C@H]2C[C@@H](/C(=C/C=C/C=C/[C@H](C[C@H](C(=O)C([C@@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)OP(=O)(C)C)C)/C)O)OC)C)C)/C)OC
+C[C@@H]1CC[C@H]2C[C@@H](/C(=C/C=C/C=C/[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@H]4CC[C@H]([C@@H](C4)OC)OP(=O)(C)C)C)/C)O)OC)C)C)/C)OC
+C[C@@H]1CC[C@H]2C[C@@H](C(=C/C=C/C=C/[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C\[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)OP(=O)(C)C)C)/C)O)OC)C)C)C)OC
+C[C@@H]1CC[C@H]2C[C@@H](/C(=C/C=C/C=C/[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C/[C@H](C(=O)CC(OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@H]4CC[C@H]([C@@H](C4)OC)OP(=O)(C)C)C)/C)O)OC)C)C)/C)OC
+CC1CC[C@@H]2CC(C(=CC=CC=CC(CC(C(=O)C(C(C(=CC(C(=O)CC(OC(=O)[C@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)C(C)CC4CCC(C(C4)OC)OP(=O)(C)C)C)C)O)OC)C)C)C)OC
+C[C@@H]1CC[C@H]2C[C@@H](/C(=C/C=C/C=C/C(C[C@H](C(=O)[C@@H]([C@@H](/C(=C/C(C(=O)C[C@H](OC(=O)C3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@H]4CCC(C(C4)OC)OP(=O)(C)C)C)/C)O)OC)C)C)/C)OC
+CC1CCC2CC(C(=CC=CC=CC(CC(C(=O)C(C(C(=CC(C(=O)CC(OC(=O)C3CCCCN3C(=O)C(=O)[C@@]1(O2)O)C(C)CC4CCC(C(C4)OC)OP(=O)(C)C)C)C)O)OC)C)C)C)OC
+C[C@@H]1CC[C@H]2C[C@@H](/C(=C/C=C/C=C\[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)OP(=O)(C)C)C)/C)O)OC)C)C)/C)OC
+C[C@H]1CCC2C[C@@H](C(=CC=C/C=C\[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C/[C@@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)OP(=O)(C)C)C)/C)O)OC)C)C)C)OC
+C[C@@H]1CC[C@H]2CC(/C(=C\C=C\C=C[C@H](C[C@H](C(=O)C([C@@H](/C(=C/[C@H](C(=O)CC(OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)OP(=O)(C)C)C)/C)O)OC)C)C)/C)OC"
+BRD-K62310379-001-10-5,fluticasone-propionate,glucocorticoid receptor agonist,16,CCC(=O)O[C@@]1([C@@H](C[C@@H]2[C@@]1(C[C@@H]([C@]3([C@H]2C[C@@H](C4=CC(=O)C=C[C@@]43C)F)F)O)C)C)C(=O)SCF
+BRD-K62374002-001-01-5,PI3K-IN-2,PI3K inhibitor,6,C1COCCN1C2=NC(=NC(=N2)C3=CN=C(C=C3C(F)(F)F)N)N4CCOCC4
+BRD-K62810658-001-12-2,PD-98059,MEK inhibitor,1,COC1=CC=CC(=C1N)C2=CC(=O)C3=CC=CC=C3O2
+BRD-K62814476-001-03-3,BMS-265246,CDK inhibitor,3,CCCCOC1=C(C=NC2=NNC=C12)C(=O)C3=C(C=C(C=C3F)C)F
+BRD-K63068307-001-08-9,ZSTK-474,PI3K inhibitor,6,C1COCCN1C2=NC(=NC(=N2)N3C4=CC=CC=C4N=C3C(F)F)N5CCOCC5
+BRD-K63784565-001-06-2,10-hydroxycamptothecin,topoisomerase inhibitor,7,"CC[C@@]1(C2=C(COC1=O)C(=O)N3CC4=C(C3=C2)N=C5C=CC(=CC5=C4)O)O
+CCC1(C2=C(COC1=O)C(=O)N3CC4=C(C3=C2)N=C5C=CC(=CC5=C4)O)O
+CC[C@]1(C2=C(COC1=O)C(=O)N3CC4=C(C3=C2)N=C5C=CC(=CC5=C4)O)O"
+BRD-K63923597-001-10-0,barasertib-HQPA,Aurora kinase inhibitor,12,CCN(CCCOC1=CC2=C(C=C1)C(=NC=N2)NC3=NNC(=C3)CC(=O)NC4=CC(=CC=C4)F)CCO
+BRD-K64538373-001-01-4,Ro-4987655,MEK inhibitor,18,C1CC(=O)N(OC1)CC2=CC(=C(C(=C2F)F)NC3=C(C=C(C=C3)I)F)C(=O)NOCCO
+BRD-K64785675-001-04-0,TG100-115,PI3K inhibitor,8,C1=CC(=CC(=C1)O)C2=NC3=C(N=C(N=C3N=C2C4=CC(=CC=C4)O)N)N
+BRD-K64800655-001-07-4,PHA-793887,CDK inhibitor,5,CC(C)CC(=O)NC1=NNC2=C1CN(C2(C)C)C(=O)C3CCN(CC3)C
+BRD-K64866502-001-03-9,CYC116,Aurora kinase inhibitor,12,CC1=C(SC(=N1)N)C2=NC(=NC=C2)NC3=CC=C(C=C3)N4CCOCC4
+BRD-K65877271-001-01-8,halobetasol-propionate,glucocorticoid receptor agonist,16,CCC(=O)O[C@@]1([C@H](C[C@@H]2[C@@]1(C[C@@H]([C@]3([C@H]2C[C@@H](C4=CC(=O)C=C[C@@]43C)F)F)O)C)C)C(=O)CCl
+BRD-K66094457-001-01-5,CPP,glutamate receptor antagonist,16,Error: 404
+BRD-K66715657-050-01-0,UH-232-(+),dopamine receptor antagonist,1,CCCN(CCC)[C@@H]1CCC2=C([C@@H]1C)C=CC=C2OC
+BRD-K67173685-001-06-9,4E1RCat,protein synthesis inhibitor,13,"C1=CC=C(C=C1)C2=C/C(=C\C3=CC=C(O3)C4=CC=C(C=C4)[N+](=O)[O-])/C(=O)N2C5=CC=C(C=C5)C(=O)O
+C1=CC=C(C=C1)C2=C/C(=C/C3=CC=C(O3)C4=CC=C(C=C4)[N+](=O)[O-])/C(=O)N2C5=CC=C(C=C5)C(=O)O
+C1=CC=C(C=C1)C2=CC(=CC3=CC=C(O3)C4=CC=C(C=C4)[N+](=O)[O-])C(=O)N2C5=CC=C(C=C5)C(=O)O"
+BRD-K67566344-001-07-5,ku-0063794,mTOR inhibitor,6,C[C@@H]1CN(C[C@@H](O1)C)C2=NC3=C(C=CC(=N3)C4=CC(=C(C=C4)OC)CO)C(=N2)N5CCOCC5
+BRD-K67578145-001-09-7,GDC-0879,RAF inhibitor,18,"C1C/C(=N\O)/C2=C1C=C(C=C2)C3=CN(N=C3C4=CC=NC=C4)CCO
+C1C/C(=N/O)/C2=C1C=C(C=C2)C3=CN(N=C3C4=CC=NC=C4)CCO
+C1CC(=NO)C2=C1C=C(C=C2)C3=CN(N=C3C4=CC=NC=C4)CCO"
+BRD-K68174511-001-06-6,torin-2,mTOR inhibitor,6,C1=CC(=CC(=C1)N2C(=O)C=CC3=CN=C4C=CC(=CC4=C32)C5=CN=C(C=C5)N)C(F)(F)F
+BRD-K68202742-001-16-5,trichostatin-a,HDAC inhibitor,11,"C[C@H](/C=C(\C)/C=C/C(=O)NO)C(=O)C1=CC=C(C=C1)N(C)C
+C[C@@H](/C=C(\C)/C=C/C(=O)NO)C(=O)C1=CC=C(C=C1)N(C)C"
+BRD-K68336408-001-10-9,tyrphostin-AG-1478,EGFR inhibitor,4,COC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC(=CC=C3)Cl)OC
+BRD-K68346641-001-01-4,amsacrine,topoisomerase inhibitor,7,COC1=C(C=CC(=C1)NS(=O)(=O)C)NC2=C3C=CC=CC3=NC4=CC=CC=C42
+BRD-K68633617-003-02-9,ACDPP,glutamate receptor antagonist,19,CN(C)C1=NC(=C(N=C1Cl)C(=O)NC2=CN=CC=C2)N
+BRD-K68747584-001-02-0,PF-03814735,Aurora kinase inhibitor,12,CC(=O)NCC(=O)N1[C@H]2CC[C@@H]1C3=C2C=CC(=C3)NC4=NC=C(C(=N4)NC5CCC5)C(F)(F)F
+BRD-K69280563-001-01-8,vinorelbine,tubulin polymerization inhibitor,3,"CCC1=C[C@H]2C[C@@](C3=C(CN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9[C@H]7[C@@](C=CC9)([C@H]([C@@]([C@@H]8N6C)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC
+CCC1=CC2C[C@@](C3=C(CN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9[C@H]7[C@@](C=CC9)([C@H]([C@@]([C@@H]8N6C)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC
+CCC1=C[C@@H]2C[C@@](C3=C(CN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9[C@H]7[C@@](C=CC9)([C@H]([C@@]([C@@H]8N6C)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC
+CCC1=CC2CC(C3=C(CN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)C78CCN9C7C(C=CC9)(C(C(C8N6C)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC
+CCC1=C[C@H]2C[C@@](C3=C(CN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9[C@H]7[C@@](C=CC9)([C@H]([C@]([C@@H]8N6C)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC
+CCC1=CC2C[C@@](C3=C(CN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9C7[C@@](C=CC9)(C([C@@](C8N6C)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC
+CCC1=C[C@H]2C[C@@](C3=C(CN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9[C@H]7[C@@](C=CC9)([C@@H]([C@@]([C@@H]8N6C)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC
+CCC1=C[C@H]2C[C@@](C3=C(CN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9[C@H]7[C@@](C=CC9)([C@H]([C@@]([C@H]8N6C)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC"
+BRD-K69650333-003-14-0,idarubicin,topoisomerase inhibitor,7,C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=CC=CC=C5C4=O)O)(C(=O)C)O)N)O
+BRD-K69932463-001-10-6,AZD8055,mTOR inhibitor,6,C[C@H]1COCCN1C2=NC(=NC3=C2C=CC(=N3)C4=CC(=C(C=C4)OC)CO)N5CCOC[C@@H]5C
+BRD-K70402238-001-02-8,nexturastat-a,HDAC inhibitor,11,CCCCN(CC1=CC=C(C=C1)C(=O)NO)C(=O)NC2=CC=CC=C2
+BRD-K70505054-003-12-4,ranitidine,histamine receptor antagonist,20,CN/C(=C\[N+](=O)[O-])/NCCSCC1=CC=C(O1)CN(C)C
+BRD-K70914287-300-02-8,BIBX-1382,EGFR inhibitor,14,CN1CCC(CC1)NC2=NC=C3C(=N2)C(=NC=N3)NC4=CC(=C(C=C4)F)Cl
+BRD-K71281111-001-04-3,SNX-2112,HSP inhibitor,0,CC1(CC2=C(C(=O)C1)C(=NN2C3=CC(=C(C=C3)C(=O)N)NC4CCC(CC4)O)C(F)(F)F)C
+BRD-K71512533-066-02-8,SNS-314,Aurora kinase inhibitor,12,C1=CC(=CC(=C1)Cl)NC(=O)NC2=NC=C(S2)CCNC3=NC=NC4=C3SC=C4
+BRD-K72414522-001-06-7,AZD5438,CDK inhibitor,0,CC1=NC=C(N1C(C)C)C2=NC(=NC=C2)NC3=CC=C(C=C3)S(=O)(=O)C
+BRD-K72420232-001-12-3,WZ-4002,EGFR inhibitor,14,CN1CCN(CC1)C2=CC(=C(C=C2)NC3=NC=C(C(=N3)OC4=CC=CC(=C4)NC(=O)C=C)Cl)OC
+BRD-K72533376-001-01-2,etoposide-phosphate,topoisomerase inhibitor,9,C[C@@H]1OC[C@@H]2[C@@H](O1)[C@@H]([C@H]([C@@H](O2)O[C@H]3[C@H]4COC(=O)[C@@H]4[C@@H](C5=CC6=C(C=C35)OCO6)C7=CC(=C(C(=C7)OC)OP(=O)(O)O)OC)O)O
+BRD-K72703948-001-10-1,ZM-447439,Aurora kinase inhibitor,12,COC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC=C(C=C3)NC(=O)C4=CC=CC=C4)OCCCN5CCOCC5
+BRD-K72723676-003-17-8,benzethonium,sodium channel blocker,0,CC(C)(C)CC(C)(C)C1=CC=C(C=C1)OCCOCC[N+](C)(C)CC2=CC=CC=C2
+BRD-K72726508-001-02-1,arcyriaflavin-a,CDK inhibitor,19,C1=CC=C2C(=C1)C3=C4C(=C5C6=CC=CC=C6NC5=C3N2)C(=O)NC4=O
+BRD-K72827473-001-01-0,CEP-37440,ALK tyrosine kinase receptor inhibitor,6,CNC(=O)C1=CC=CC=C1NC2=NC(=NC=C2Cl)NC3=C(C4=C(C[C@H](CCC4)N5CCN(CC5)CCO)C=C3)OC
+BRD-K73197500-001-02-2,SNX-5422,HSP inhibitor,0,CC1(CC2=C(C(=O)C1)C(=NN2C3=CC(=C(C=C3)C(=O)N)NC4CCC(CC4)OC(=O)CN)C(F)(F)F)C
+BRD-K73293050-001-03-1,WZ-3146,EGFR inhibitor,7,CN1CCN(CC1)C2=CC=C(C=C2)NC3=NC=C(C(=N3)OC4=CC=CC(=C4)NC(=O)C=C)Cl
+BRD-K73309154-003-02-8,OSI-420,EGFR inhibitor,14,COCCOC1=C(C=C2C(=C1)N=CN=C2NC3=CC=CC(=C3)C#C)OCCO.Cl
+BRD-K73589491-001-11-2,nizatidine,histamine receptor antagonist,15,CN/C(=C\[N+](=O)[O-])/NCCSCC1=CSC(=N1)CN(C)C
+BRD-K74057757-001-01-9,indibulin,tubulin polymerization inhibitor,3,C1=CC=C2C(=C1)C(=CN2CC3=CC=C(C=C3)Cl)C(=O)C(=O)NC4=CC=NC=C4
+BRD-K75295174-001-05-0,alisertib,Aurora kinase inhibitor,12,COC1=C(C(=CC=C1)F)C2=NCC3=CN=C(N=C3C4=C2C=C(C=C4)Cl)NC5=CC(=C(C=C5)C(=O)O)OC
+BRD-K75466013-001-14-4,benzocaine,sodium channel blocker,20,CCOC(=O)C1=CC=C(C=C1)N
+BRD-K76037122-001-02-5,guanidine,HSP inhibitor,15,C(=N)(N)N
+BRD-K76674262-001-03-3,homoharringtonine,protein synthesis inhibitor,0,CC(C)(CCC[C@@](CC(=O)OC)(C(=O)O[C@H]1[C@H]2C3=CC4=C(C=C3CCN5[C@@]2(CCC5)C=C1OC)OCO4)O)O
+BRD-K76840893-003-02-5,RS-17053,adrenergic receptor antagonist,9,CC(C)(CC1=CNC2=C1C=C(C=C2)Cl)NCCOC3=CC=CC=C3OCC4CC4
+BRD-K76973696-001-12-6,tryptanthrin,cyclooxygenase inhibitor,17,C1=CC=C2C(=C1)C(=O)N3C4=CC=CC=C4C(=O)C3=N2
+BRD-K77008974-001-03-2,WYE-354,mTOR inhibitor,6,COC(=O)NC1=CC=C(C=C1)C2=NC3=C(C=NN3C4CCN(CC4)C(=O)OC)C(=N2)N5CCOCC5
+BRD-K77245796-003-01-6,gamma-aminobutyric-acid,benzodiazepine receptor agonist,1,C(CC(=O)O)CN
+BRD-K77554836-001-11-6,triamcinolone,glucocorticoid receptor agonist,16,C[C@]12C[C@@H]([C@]3([C@H]([C@@H]1C[C@H]([C@@]2(C(=O)CO)O)O)CCC4=CC(=O)C=C[C@@]43C)F)O
+BRD-K77638923-001-02-0,CUDC-907,PI3K inhibitor,11,CN(CC1=CC2=C(S1)C(=NC(=N2)C3=CN=C(C=C3)OC)N4CCOCC4)C5=NC=C(C=N5)C(=O)NO
+BRD-K77841042-001-14-1,brefeldin-a,protein synthesis inhibitor,0,C[C@H]1CCC/C=C/[C@@H]2C[C@@H](C[C@H]2[C@@H](/C=C/C(=O)O1)O)O
+BRD-K77908580-001-09-6,entinostat,HDAC inhibitor,11,C1=CC=C(C(=C1)N)NC(=O)C2=CC=C(C=C2)CNC(=O)OCC3=CN=CC=C3
+BRD-K77987382-001-13-2,mebendazole,tubulin polymerization inhibitor,3,COC(=O)NC1=NC2=C(N1)C=C(C=C2)C(=O)C3=CC=CC=C3
+BRD-K78086729-001-02-7,GW-788388,ALK tyrosine kinase receptor inhibitor,14,C1COCCC1NC(=O)C2=CC=C(C=C2)C3=NC=CC(=C3)C4=C(NN=C4)C5=CC=CC=N5
+BRD-K78096648-001-05-7,oxiperomide,dopamine receptor antagonist,13,C1CN(CCC1N2C3=CC=CC=C3NC2=O)CCOC4=CC=CC=C4
+BRD-K78567475-001-01-4,dolastatin-10,tubulin polymerization inhibitor,3,CC[C@H](C)[C@@H]([C@@H](CC(=O)N1CCC[C@H]1[C@@H]([C@@H](C)C(=O)N[C@@H](CC2=CC=CC=C2)C3=NC=CS3)OC)OC)N(C)C(=O)[C@H](C(C)C)NC(=O)[C@H](C(C)C)N(C)C
+BRD-K78809024-001-05-7,SB-590885,RAF inhibitor,18,"CN(C)CCOC1=CC=C(C=C1)C2=NC(=C(N2)C3=CC=NC=C3)C4=CC5=C(C=C4)/C(=N/O)/CC5
+CN(C)CCOC1=CC=C(C=C1)C2=NC(=C(N2)C3=CC=NC=C3)C4=CC5=C(C=C4)/C(=N\O)/CC5
+CN(C)CCOC1=CC=C(C=C1)C2=NC(=C(N2)C3=CC=NC=C3)C4=CC5=C(C=C4)C(=NO)CC5"
+BRD-K78815826-001-14-6,suxibuzone,cyclooxygenase inhibitor,4,CCCCC1(C(=O)N(N(C1=O)C2=CC=CC=C2)C3=CC=CC=C3)COC(=O)CCC(=O)O
+BRD-K79131256-001-17-9,albendazole,tubulin polymerization inhibitor,3,CCCSC1=CC2=C(C=C1)N=C(N2)NC(=O)OC
+BRD-K79821389-001-03-5,rubitecan,topoisomerase inhibitor,7,CC[C@@]1(C2=C(COC1=O)C(=O)N3CC4=CC5=C(C=CC=C5[N+](=O)[O-])N=C4C3=C2)O
+BRD-K79930101-300-03-7,GW-583340,EGFR inhibitor,14,CS(=O)(=O)CCNCC1=NC(=CS1)C2=CC3=C(C=C2)N=CN=C3NC4=CC(=C(C=C4)OCC5=CC(=CC=C5)F)Cl
+BRD-K80060353-303-03-9,IEM1754,glutamate receptor antagonist,4,C1C2CC3CC1CC(C2)(C3)CNCCCCCN
+BRD-K80343549-001-02-6,TAK-285,EGFR inhibitor,11,CC(C)(CC(=O)NCCN1C=CC2=C1C(=NC=N2)NC3=CC(=C(C=C3)OC4=CC=CC(=C4)C(F)(F)F)Cl)O
+BRD-K81728688-001-04-4,WZ8040,EGFR inhibitor,14,CN1CCN(CC1)C2=CC=C(C=C2)NC3=NC=C(C(=N3)SC4=CC=CC(=C4)NC(=O)C=C)Cl
+BRD-K82122102-323-01-1,amfenac,cyclooxygenase inhibitor,4,C1=CC=C(C=C1)C(=O)C2=CC=CC(=C2N)CC(=O)O
+BRD-K82244583-001-01-3,MEK162,MEK inhibitor,18,CN1C=NC2=C1C=C(C(=C2F)NC3=C(C=C(C=C3)Br)F)C(=O)NOCCO
+BRD-K82928847-001-04-7,ACY-1215,HDAC inhibitor,11,C1=CC=C(C=C1)N(C2=CC=CC=C2)C3=NC=C(C=N3)C(=O)NCCCCCCC(=O)NO
+BRD-K83837640-001-04-8,JNJ-26481585,HDAC inhibitor,11,CN1C=C(C2=CC=CC=C21)CNCC3CCN(CC3)C4=NC=C(C=N4)C(=O)NO
+BRD-K83963101-001-06-9,MLN-8054,Aurora kinase inhibitor,11,C1C2=CN=C(N=C2C3=C(C=C(C=C3)Cl)C(=N1)C4=C(C=CC=C4F)F)NC5=CC=C(C=C5)C(=O)O
+BRD-K84937637-001-09-9,sirolimus,mTOR inhibitor,6,C[C@@H]1CC[C@H]2C[C@@H](/C(=C/C=C/C=C/[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)O)C)/C)O)OC)C)C)/C)OC
+BRD-K85014146-001-02-5,AZD2461,PARP inhibitor,2,COC1CCN(CC1)C(=O)C2=C(C=CC(=C2)CC3=NNC(=O)C4=CC=CC=C43)F
+BRD-K85333151-003-13-4,ramifenazone,cyclooxygenase inhibitor,8,CC1=C(C(=O)N(N1C)C2=CC=CC=C2)NC(C)C
+BRD-K85554912-001-06-3,ivermectin,benzodiazepine receptor agonist,17,"CC[C@H](C)[C@@H]1[C@H](CC[C@@]2(O1)C[C@@H]3C[C@H](O2)C/C=C(/[C@H]([C@H](/C=C/C=C/4\CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O[C@H]7C[C@@H]([C@H]([C@@H](O7)C)O)OC)OC)\C)C
+CCC(C)C1C(CCC2(O1)CC3CC(O2)CC=C(C(C(C=CC=C4COC5C4(C(C=C(C5O)C)C(=O)O3)O)C)OC6CC(C(C(O6)C)OC7CC(C(C(O7)C)O)OC)OC)C)C
+CC[C@@H](C)[C@@H]1[C@H](CC[C@@]2(O1)C[C@@H]3C[C@H](O2)C/C=C(/[C@H]([C@H](/C=C/C=C/4\CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O[C@H]7C[C@@H]([C@H]([C@@H](O7)C)O)OC)OC)\C)C
+CC[C@H](C)[C@@H]1[C@H](CC[C@@]2(O1)C[C@@H]3C[C@H](O2)C/C=C(/C([C@H](/C=C/C=C/4\CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O[C@H]7C[C@@H]([C@H]([C@@H](O7)C)O)OC)OC)\C)C
+CC[C@H](C)[C@@H]1[C@H](CC[C@@]2(O1)C[C@@H]3C[C@H](O2)C/C=C(\[C@H]([C@H](/C=C\C=C4CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O[C@H]7C[C@@H]([C@H]([C@@H](O7)C)O)OC)OC)/C)C
+CCC(C)C1C(CC[C@@]2(O1)C[C@@H]3CC(O2)C/C=C(/C(C(/C=C/C=C/4\COC5C4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)O[C@H]6C[C@@H](C([C@@H](O6)C)O[C@H]7C[C@@H](C([C@@H](O7)C)O)OC)OC)\C)C
+CCC(C)[C@@H]1[C@H](CC[C@@]2(O1)C[C@@H]3C[C@H](O2)C/C=C(/[C@H]([C@H](/C=C/C=C/4\CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)OC6C[C@@H](C([C@@H](O6)C)O[C@H]7C[C@@H]([C@H]([C@@H](O7)C)O)OC)OC)\C)C
+CC[C@H](C)[C@@H]1[C@H](CC[C@@]2(O1)C[C@@H]3C[C@H](O2)C/C=C(/[C@H]([C@H](/C=C/C=C/4\CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)O[C@H]6C[C@H]([C@H]([C@@H](O6)C)O[C@H]7C[C@H]([C@H]([C@@H](O7)C)O)OC)OC)\C)C
+CCC(C)C1C(CC[C@@]2(O1)CC3CC(O2)CC=C(C(C(C=CC=C4COC5[C@@]4(C(C=C(C5O)C)C(=O)O3)O)C)OC6CC(C(C(O6)C)OC7CC(C(C(O7)C)O)OC)OC)C)C
+CC[C@H](C)[C@@H]1[C@H](CC[C@@]2(O1)C[C@@H]3C[C@H](O2)CC=C([C@H]([C@H](C=CC=C4CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O[C@H]7C[C@@H]([C@H]([C@@H](O7)C)O)OC)OC)C)C
+CC[C@H](C)[C@@H]1[C@H](CC[C@@]2(O1)C[C@@H]3C[C@H](O2)C/C=C(/[C@H]([C@H](/C=C/C=C/4\CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)OC6C[C@@H]([C@H]([C@@H](O6)C)OC7C[C@@H]([C@H]([C@@H](O7)C)O)OC)OC)\C)C
+CC[C@@H](C)[C@@H]1[C@H](CC[C@@]2(O1)C[C@@H]3C[C@H](O2)CC=C([C@H]([C@H](C=CC=C4CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O[C@H]7C[C@@H]([C@H]([C@@H](O7)C)O)OC)OC)C)C
+CC[C@H](C)[C@@H]1[C@H](CC[C@@]2(O1)C[C@@H]3C[C@H](O2)C/C=C(/[C@H]([C@H](/C=C/C=C4CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O[C@H]7C[C@@H]([C@H]([C@@H](O7)C)O)OC)OC)\C)C
+CC[C@H](C)[C@@H]1[C@H](CC[C@@]2(O1)C[C@@H]3C[C@H](O2)C/C=C(/[C@H]([C@H](/C=C/C=C/4\CO[C@H]5[C@@]4(C(C=C([C@H]5O)C)C(=O)O3)O)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O[C@H]7C[C@@H]([C@H]([C@@H](O7)C)O)OC)OC)\C)C
+CC[C@H](C)[C@H]1[C@H](CC[C@@]2(O1)C[C@@H]3C[C@H](O2)C/C=C(/[C@H]([C@H](/C=C/C=C/4\CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O[C@H]7C[C@@H]([C@H]([C@@H](O7)C)O)OC)OC)\C)C
+CC[C@H](C)[C@@H]1[C@H](CC[C@@]2(O1)C[C@@H]3C[C@H](O2)C/C=C(/[C@H]([C@H](/C=C/C=C/4\CO[C@H]5[C@@]4([C@H](C=C([C@H]5O)C)C(=O)O3)O)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O[C@H]7C[C@@H]([C@H]([C@@H](O7)C)O)OC)OC)\C)C
+CC[C@H](C)[C@@H]1[C@H](CC[C@@]2(O1)C[C@@H]3C[C@H](O2)CC=C([C@H]([C@H](/C=C/C=C/4\CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O[C@H]7C[C@@H]([C@H]([C@@H](O7)C)O)OC)OC)C)C
+CC[C@H](C)[C@@H]1[C@H](CC[C@@]2(O1)C[C@@H]3C[C@H](O2)C/C=C(/[C@H]([C@H](/C=C/C=C4CO[C@H]5[C@@]4([C@H](C=C([C@H]5O)C)C(=O)O3)O)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O[C@H]7C[C@@H]([C@H]([C@@H](O7)C)O)OC)OC)\C)C
+CCC(C)[C@@H]1[C@H](CC[C@@]2(O1)C[C@@H]3C[C@H](O2)CC=C([C@H]([C@H](C=CC=C4CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)OC6C[C@@H](C([C@@H](O6)C)O[C@H]7C[C@@H]([C@H]([C@@H](O7)C)O)OC)OC)C)C
+CCC(C)C1C(CCC2(O1)CC3CC(O2)C/C=C(\C(C(/C=C\C=C4COC5C4(C(C=C(C5O)C)C(=O)O3)O)C)OC6CC(C(C(O6)C)OC7CC(C(C(O7)C)O)OC)OC)/C)C
+CC[C@H](C)[C@@H]1[C@H](CC[C@@]2(O1)C[C@@H]3C[C@H](O2)C/C=C(/[C@H]([C@H](/C=C/C=C/4\CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)O[C@H]6C[C@@H]([C@H]([C@H](O6)C)O[C@H]7C[C@@H]([C@H]([C@H](O7)C)O)OC)OC)\C)C
+CC[C@H](C)[C@@H]1[C@H](CC[C@@]2(O1)CC3C[C@H](O2)C/C=C(/[C@H]([C@H](/C=C/C=C/4\CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O[C@H]7C[C@@H]([C@H]([C@@H](O7)C)O)OC)OC)\C)C
+CC[C@H](C)[C@@H]1[C@H](CC[C@@]2(O1)C[C@@H]3C[C@H](O2)C/C=C(/[C@H]([C@H](/C=C/C=C4CO[C@H]5[C@@]4(C(C=C([C@H]5O)C)C(=O)O3)O)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O[C@H]7C[C@@H]([C@H]([C@@H](O7)C)O)OC)OC)\C)C"
+BRD-K85606544-001-09-1,neratinib,EGFR inhibitor,14,CCOC1=C(C=C2C(=C1)N=CC(=C2NC3=CC(=C(C=C3)OCC4=CC=CC=N4)Cl)C#N)NC(=O)/C=C/CN(C)C
+BRD-K85751432-001-03-3,refametinib,MEK inhibitor,18,COC1=CC(=C(C(=C1NS(=O)(=O)C2(CC2)C[C@@H](CO)O)NC3=C(C=C(C=C3)I)F)F)F
+BRD-K85872723-001-15-9,kynurenic-acid,glutamate receptor antagonist,1,C1=CC=C2C(=C1)C(=O)C=C(N2)C(=O)O
+BRD-K85920262-001-02-1,WAY-600,mTOR inhibitor,13,C1CN(CCC1N2C3=C(C=N2)C(=NC(=N3)C4=CC5=C(C=C4)NC=C5)N6CCOCC6)CC7=CN=CC=C7
+BRD-K86003836-001-10-5,flubendazole,tubulin polymerization inhibitor,3,COC(=O)NC1=NC2=C(N1)C=C(C=C2)C(=O)C3=CC=C(C=C3)F
+BRD-K86687746-001-01-3,R306465,HDAC inhibitor,11,C1CN(CCN1C2=NC=C(C=N2)C(=O)NO)S(=O)(=O)C3=CC4=CC=CC=C4C=C3
+BRD-K86797399-001-05-1,SB-939,HDAC inhibitor,11,CCCCC1=NC2=C(N1CCN(CC)CC)C=CC(=C2)/C=C/C(=O)NO
+BRD-K87112191-001-04-5,PP242,mTOR inhibitor,6,CC(C)N1C2=NC=NC(=C2C(=N1)C3=CC4=C(N3)C=CC(=C4)O)N
+BRD-K87124298-001-03-4,OSI-027,mTOR inhibitor,6,COC1=CC=CC2=C1NC(=C2)C3=C4C(=NC=NN4C(=N3)C5CCC(CC5)C(=O)O)N
+BRD-K87349682-347-03-8,norepinephrine,adrenergic receptor agonist,5,C1=CC(=C(C=C1[C@H](CN)O)O)O
+BRD-K87512222-019-01-7,taltobulin,tubulin polymerization inhibitor,3,CC(C)[C@@H](/C=C(\C)/C(=O)O)N(C)C(=O)[C@H](C(C)(C)C)NC(=O)[C@H](C(C)(C)C1=CC=CC=C1)NC
+BRD-K87696786-003-04-4,LY456236,glutamate receptor antagonist,2,"COC1=CC=C(C=C1)NC2=NC=NC3=C2C=C(C=C3)OC
+COC1=CC=C(C=C1)NC2=NC=NC3=C2C=C(C=C3)OC.Cl"
+BRD-K87909389-003-03-4,alvocidib,CDK inhibitor,0,CN1CC[C@@H]([C@@H](C1)O)C2=C(C=C(C3=C2OC(=CC3=O)C4=CC=CC=C4Cl)O)O
+BRD-K87990216-001-10-2,piretanide,glucocorticoid receptor agonist,19,C1CCN(C1)C2=C(C(=CC(=C2)C(=O)O)S(=O)(=O)N)OC3=CC=CC=C3
+BRD-K89014967-001-04-3,AS-703026,MEK inhibitor,18,C1=CC(=C(C=C1I)F)NC2=C(C=CN=C2)C(=O)NC[C@@H](CO)O
+BRD-K89121095-001-01-7,tedizolid-phosphate,protein synthesis inhibitor,3,CN1N=C(N=N1)C2=NC=C(C=C2)C3=C(C=C(C=C3)N4C[C@@H](OC4=O)COP(=O)(O)O)F
+BRD-K89490285-001-08-1,bentazepam,benzodiazepine receptor agonist,13,C1CCC2=C(C1)C3=C(S2)NC(=O)CN=C3C4=CC=CC=C4
+BRD-K89561498-001-01-7,SN-38,topoisomerase inhibitor,7,CCC1=C2CN3C(=CC4=C(C3=O)COC(=O)[C@@]4(CC)O)C2=NC5=C1C=C(C=C5)O
+BRD-K89704198-001-12-3,vincamine,adrenergic receptor antagonist,4,CC[C@@]12CCCN3[C@@H]1C4=C(CC3)C5=CC=CC=C5N4[C@](C2)(C(=O)OC)O
+BRD-K90948141-001-01-4,indiplon,benzodiazepine receptor agonist,8,CC(=O)N(C)C1=CC=CC(=C1)C2=CC=NC3=C(C=NN23)C(=O)C4=CC=CS4
+BRD-K91623615-001-05-0,ABT-751,tubulin polymerization inhibitor,3,COC1=CC=C(C=C1)S(=O)(=O)NC2=C(N=CC=C2)NC3=CC=C(C=C3)O
+BRD-K92049597-001-20-8,triamterene,sodium channel blocker,1,C1=CC=C(C=C1)C2=NC3=C(N=C(N=C3N=C2N)N)N
+BRD-K92093830-003-30-8,doxorubicin,topoisomerase inhibitor,7,C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)CO)O)N)O
+BRD-K92657060-001-05-7,zaleplon,benzodiazepine receptor agonist,5,CCN(C1=CC=CC(=C1)C2=CC=NC3=C(C=NN23)C#N)C(=O)C
+BRD-K94353609-001-21-6,fluocinolone-acetonide,glucocorticoid receptor agonist,16,C[C@]12C[C@@H]([C@]3([C@H]([C@@H]1C[C@@H]4[C@]2(OC(O4)(C)C)C(=O)CO)C[C@@H](C5=CC(=O)C=C[C@@]53C)F)F)O
+BRD-K95142244-001-01-5,talazoparib,PARP inhibitor,9,CN1C(=NC=N1)[C@@H]2[C@H](NC3=CC(=CC4=C3C2=NNC4=O)F)C5=CC=C(C=C5)F
+BRD-K96006502-001-02-6,deflazacort,glucocorticoid receptor agonist,16,CC1=N[C@@]2([C@H](O1)C[C@@H]3[C@@]2(C[C@@H]([C@H]4[C@H]3CCC5=CC(=O)C=C[C@]45C)O)C)C(=O)COC(=O)C
+BRD-K96253961-046-03-1,metaraminol,adrenergic receptor agonist,11,C[C@@H]([C@@H](C1=CC(=CC=C1)O)O)N
+BRD-K96358241-001-01-9,harringtonine,protein synthesis inhibitor,0,"CC(C)(CC[C@@](CC(=O)OC)(C(=O)O[C@H]1[C@H]2C3=CC4=C(C=C3CCN5[C@@]2(CCC5)C=C1OC)OCO4)O)O
+CC(C)(CCC(CC(=O)OC)(C(=O)OC1C2C3=CC4=C(C=C3CCN5C2(CCC5)C=C1OC)OCO4)O)O
+CC(C)(CCC(CC(=O)OC)(C(=O)O[C@@H]1C2C3=CC4=C(C=C3CCN5[C@]2(CCC5)C=C1OC)OCO4)O)O
+CC(C)(CC[C@](CC(=O)OC)(C(=O)O[C@H]1[C@H]2C3=CC4=C(C=C3CCN5[C@@]2(CCC5)C=C1OC)OCO4)O)O
+CC(C)(CC[C@](CC(=O)OC)(C(=O)O[C@H]1[C@@H]2C3=CC4=C(C=C3CCN5[C@@]2(CCC5)C=C1OC)OCO4)O)O
+CC(C)(CCC(CC(=O)OC)(C(=O)O[C@H]1[C@H]2C3=CC4=C(C=C3CCN5C2(CCC5)C=C1OC)OCO4)O)O
+CC(C)(CCC(CC(=O)OC)(C(=O)O[C@H]1[C@H]2C3=CC4=C(C=C3CCN5[C@@]2(CCC5)C=C1OC)OCO4)O)O
+CC(C)(CCC(CC(=O)OC)(C(=O)OC1C2C3=CC4=C(C=C3CCN5[C@]2(CCC5)C=C1OC)OCO4)O)O"
+BRD-K96424892-001-02-9,chloramphenicol-palmitate,protein synthesis inhibitor,20,CCCCCCCCCCCCCCCC(=O)OC[C@H]([C@@H](C1=CC=C(C=C1)[N+](=O)[O-])O)NC(=O)C(Cl)Cl
+BRD-K97365803-001-02-1,PI-828,PI3K inhibitor,6,C1COCCN1C2=CC(=O)C3=C(O2)C(=CC=C3)C4=CC=C(C=C4)N
+BRD-K97810537-001-13-6,beclomethasone-dipropionate,glucocorticoid receptor agonist,23,CCC(=O)OCC(=O)[C@]1([C@H](C[C@@H]2[C@@]1(C[C@@H]([C@]3([C@H]2CCC4=CC(=O)C=C[C@@]43C)Cl)O)C)C)OC(=O)CC
+BRD-K98157055-001-10-9,SIB-1757,glutamate receptor antagonist,6,CC1=NC(=C(C=C1)O)N=NC2=CC=CC=C2
+BRD-K98572433-001-02-9,AZD8931,EGFR inhibitor,14,CNC(=O)CN1CCC(CC1)OC2=C(C=C3C(=C2)C(=NC=N3)NC4=C(C(=CC=C4)Cl)F)OC
+BRD-K99107520-001-24-1,felbamate,glutamate receptor antagonist,2,C1=CC=C(C=C1)C(COC(=O)N)COC(=O)N
+BRD-K99113996-001-02-0,AZD2014,mTOR inhibitor,6,C[C@H]1COCCN1C2=NC(=NC3=C2C=CC(=N3)C4=CC(=CC=C4)C(=O)NC)N5CCOC[C@@H]5C
+BRD-K99475619-001-01-2,genz-644282,topoisomerase inhibitor,7,CNCCN1C2=C(C=NC3=CC4=C(C=C32)OCO4)C5=CC(=C(C=C5C1=O)OC)OC
+BRD-K99498722-001-02-6,plinabulin,tubulin polymerization inhibitor,3,CC(C)(C)C1=C(N=CN1)/C=C\2/C(=O)N/C(=C\C3=CC=CC=C3)/C(=O)N2
+BRD-K99879819-001-02-1,lorlatinib,ALK tyrosine kinase receptor inhibitor,2,C[C@@H]1C2=C(C=CC(=C2)F)C(=O)N(CC3=NN(C(=C3C4=CC(=C(N=C4)N)O1)C#N)C)C
+BRD-M80207679-001-01-5,nemonapride,dopamine receptor antagonist,1,"C[C@@H]1[C@@H](CCN1CC2=CC=CC=C2)NC(=O)C3=CC(=C(C=C3OC)NC)Cl
+CC1C(CCN1CC2=CC=CC=C2)NC(=O)C3=CC(=C(C=C3OC)NC)Cl
+C[C@H]1[C@H](CCN1CC2=CC=CC=C2)NC(=O)C3=CC(=C(C=C3OC)NC)Cl
+C[C@H]1C(CCN1CC2=CC=CC=C2)NC(=O)C3=CC(=C(C=C3OC)NC)Cl"
+BRD-K08703257-001-12-1,3-amino-benzamide,PARP inhibitor,16,C1=CC(=CC(=C1)N)C(=O)N
+BRD-K05804044-001-06-0,AZ-628,RAF inhibitor,18,CC1=C(C=C(C=C1)NC(=O)C2=CC(=CC=C2)C(C)(C)C#N)NC3=CC4=C(C=C3)N=CN(C4=O)C
+BRD-K18787491-001-08-6,U-0126,MEK inhibitor,6,C1=CC=C(C(=C1)N)S/C(=C(/C(=C(/SC2=CC=CC=C2N)\N)/C#N)\C#N)/N
+BRD-K66175015-001-09-0,afatinib,EGFR inhibitor,14,CN(C)C/C=C/C(=O)NC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC(=C(C=C3)F)Cl)O[C@H]4CCOC4
+BRD-K11267252-001-04-4,alectinib,ALK tyrosine kinase receptor inhibitor,13,CCC1=CC2=C(C=C1N3CCC(CC3)N4CCOCC4)C(C5=C(C2=O)C6=C(N5)C=C(C=C6)C#N)(C)C
+BRD-K83988098-001-02-0,alvespimycin,HSP inhibitor,9,C[C@H]1C[C@@H]([C@@H]([C@H](/C=C(/[C@@H]([C@H](/C=C\C=C(\C(=O)NC2=CC(=O)C(=C(C1)C2=O)NCCN(C)C)/C)OC)OC(=O)N)\C)C)O)OC
+BRD-K78431006-001-10-2,crizotinib,ALK tyrosine kinase receptor inhibitor,12,C[C@H](C1=C(C=CC(=C1Cl)F)Cl)OC2=C(N=CC(=C2)C3=CN(N=C3)C4CCNCC4)N
+BRD-K09951645-001-06-8,dabrafenib,RAF inhibitor,18,CC(C)(C)C1=NC(=C(S1)C2=NC(=NC=C2)N)C3=C(C(=CC=C3)NS(=O)(=O)C4=C(C=CC=C4F)F)F
+BRD-K30577245-001-05-0,docetaxel,tubulin polymerization inhibitor,3,CC1=C2[C@H](C(=O)[C@@]3([C@H](C[C@@H]4[C@]([C@H]3[C@@H]([C@@](C2(C)C)(C[C@@H]1OC(=O)[C@@H]([C@H](C5=CC=CC=C5)NC(=O)OC(C)(C)C)O)O)OC(=O)C6=CC=CC=C6)(CO4)OC(=O)C)O)C)O
+BRD-K70401845-001-15-7,erlotinib,EGFR inhibitor,14,COCCOC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC=CC(=C3)C#C)OCCOC
+BRD-K13514097-001-04-6,everolimus,mTOR inhibitor,6,C[C@@H]1CC[C@H]2C[C@@H](/C(=C/C=C/C=C/[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)OCCO)C)/C)O)OC)C)C)/C)OC
+BRD-K64052750-001-17-5,gefitinib,EGFR inhibitor,14,COC1=C(C=C2C(=C1)N=CN=C2NC3=CC(=C(C=C3)F)Cl)OCCCN4CCOCC4
+BRD-K08547377-001-04-4,irinotecan,topoisomerase inhibitor,9,CCC1=C2CN3C(=CC4=C(C3=O)COC(=O)[C@@]4(CC)O)C2=NC5=C1C=C(C=C5)OC(=O)N6CCC(CC6)N7CCCCC7
+BRD-K19687926-001-04-1,lapatinib,EGFR inhibitor,14,CS(=O)(=O)CCNCC1=CC=C(O1)C2=CC3=C(C=C2)N=CN=C3NC4=CC(=C(C=C4)OCC5=CC(=CC=C5)F)Cl
+BRD-K02113016-001-15-4,olaparib,PARP inhibitor,9,C1CC1C(=O)N2CCN(CC2)C(=O)C3=C(C=CC(=C3)CC4=NNC(=O)C5=CC=CC=C54)F
+BRD-K62008436-001-22-1,paclitaxel,tubulin polymerization inhibitor,3,CC1=C2[C@H](C(=O)[C@@]3([C@H](C[C@@H]4[C@]([C@H]3[C@@H]([C@@](C2(C)C)(C[C@@H]1OC(=O)[C@@H]([C@H](C5=CC=CC=C5)NC(=O)C6=CC=CC=C6)O)O)OC(=O)C7=CC=CC=C7)(CO4)OC(=O)C)O)C)OC(=O)C
+BRD-K51313569-001-07-8,palbociclib,CDK inhibitor,9,CC1=C(C(=O)N(C2=NC(=NC=C12)NC3=NC=C(C=C3)N4CCNCC4)C5CCCC5)C(=O)C
+BRD-K50010139-001-01-5,poziotinib,EGFR inhibitor,14,COC1=C(C=C2C(=C1)N=CN=C2NC3=C(C(=C(C=C3)Cl)Cl)F)OC4CCN(CC4)C(=O)C=C
+BRD-K28822270-001-01-1,resminostat,HDAC inhibitor,11,CN(C)CC1=CC=C(C=C1)S(=O)(=O)N2C=CC(=C2)/C=C/C(=O)NO
+BRD-K81473043-001-14-6,tanespimycin,HSP inhibitor,0,C[C@H]1C[C@@H]([C@@H]([C@H](/C=C(/[C@@H]([C@H](/C=C\C=C(\C(=O)NC2=CC(=O)C(=C(C1)C2=O)NCC=C)/C)OC)OC(=O)N)\C)C)O)OC
+BRD-K12343256-001-08-9,trametinib,MEK inhibitor,18,CC1=C2C(=C(N(C1=O)C)NC3=C(C=C(C=C3)I)F)C(=O)N(C(=O)N2C4=CC=CC(=C4)NC(=O)C)C5CC5
+BRD-K56343971-001-10-6,vemurafenib,RAF inhibitor,18,CCCS(=O)(=O)NC1=C(C(=C(C=C1)F)C(=O)C2=CNC3=C2C=C(C=N3)C4=CC=C(C=C4)Cl)F
+BRD-K81418486-001-44-2,vorinostat,HDAC inhibitor,11,C1=CC=C(C=C1)NC(=O)CCCCCCC(=O)NO
